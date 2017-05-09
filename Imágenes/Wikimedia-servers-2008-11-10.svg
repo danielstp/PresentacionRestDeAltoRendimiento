@@ -1,0 +1,2955 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   version="1.0"
+   width="1200"
+   height="1290"
+   viewBox="0 0 2000 2150"
+   id="svg2">
+  <defs
+     id="defs4">
+    <linearGradient
+       id="linearGradient3943">
+      <stop
+         id="stop3945"
+         style="stop-color:#dddddd;stop-opacity:1"
+         offset="0" />
+      <stop
+         id="stop3951"
+         style="stop-color:#ffffff;stop-opacity:1"
+         offset="0.30000001" />
+      <stop
+         id="stop3947"
+         style="stop-color:#bbbbbb;stop-opacity:1"
+         offset="1" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient3923">
+      <stop
+         id="stop3925"
+         style="stop-color:#c4a8e9;stop-opacity:1"
+         offset="0" />
+      <stop
+         id="stop3927"
+         style="stop-color:#e5c1f8;stop-opacity:1"
+         offset="0.30000001" />
+      <stop
+         id="stop3929"
+         style="stop-color:#a600ff;stop-opacity:1"
+         offset="1" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient3783">
+      <stop
+         id="stop3785"
+         style="stop-color:#e9a8e9;stop-opacity:1"
+         offset="0" />
+      <stop
+         id="stop3791"
+         style="stop-color:#f8c1f8;stop-opacity:1"
+         offset="0.30000001" />
+      <stop
+         id="stop3787"
+         style="stop-color:#ff00ff;stop-opacity:1"
+         offset="1" />
+    </linearGradient>
+    <path
+       d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.97309,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z"
+       id="ArrowBase"
+       style="font-size:12px;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round" />
+    <marker
+       refX="0"
+       refY="0"
+       orient="auto"
+       id="ArrowRed"
+       style="overflow:visible">
+      <use
+         transform="scale(-0.4,-0.4)"
+         id="use8408"
+         style="fill:#ff0000;stroke:#ff0000"
+         width="3"
+         height="3"
+         xlink:href="#ArrowBase" />
+    </marker>
+    <marker
+       refX="0"
+       refY="0"
+       orient="auto"
+       id="ArrowTeal"
+       style="overflow:visible">
+      <use
+         transform="scale(-0.4,-0.4)"
+         id="use9029"
+         style="fill:#008080;stroke:#008080"
+         width="3"
+         height="3"
+         xlink:href="#ArrowBase" />
+    </marker>
+    <marker
+       refX="0"
+       refY="0"
+       orient="auto"
+       id="ArrowBlueEnd"
+       style="overflow:visible">
+      <use
+         transform="scale(-0.4,-0.4)"
+         id="use7823"
+         style="fill:#0000ff;stroke:#0000ff"
+         width="3"
+         height="3"
+         xlink:href="#ArrowBase" />
+    </marker>
+    <marker
+       refX="0"
+       refY="0"
+       orient="auto"
+       id="ArrowBlueStart"
+       style="overflow:visible">
+      <use
+         transform="scale(0.4,0.4)"
+         id="use8404"
+         style="fill:#0000ff;stroke:#0000ff"
+         width="3"
+         height="3"
+         xlink:href="#ArrowBase" />
+    </marker>
+    <marker
+       refX="0"
+       refY="0"
+       orient="auto"
+       id="ArrowCyanEnd"
+       style="overflow:visible">
+      <use
+         transform="scale(-0.4,-0.4)"
+         id="use4039"
+         style="fill:#00dddd;stroke:#00dddd"
+         width="3"
+         height="3"
+         xlink:href="#ArrowBase" />
+    </marker>
+    <marker
+       refX="0"
+       refY="0"
+       orient="auto"
+       id="ArrowCyanStart"
+       style="overflow:visible">
+      <use
+         transform="scale(0.4,0.4)"
+         id="use4043"
+         style="fill:#00dddd;stroke:#00dddd"
+         width="3"
+         height="3"
+         xlink:href="#ArrowBase" />
+    </marker>
+    <marker
+       refX="0"
+       refY="0"
+       orient="auto"
+       id="ArrowGreenEnd"
+       style="overflow:visible">
+      <use
+         transform="scale(-0.4,-0.4)"
+         id="use8997"
+         style="fill:#00cc00;stroke:#00cc00"
+         width="3"
+         height="3"
+         xlink:href="#ArrowBase" />
+    </marker>
+    <marker
+       refX="0"
+       refY="0"
+       orient="auto"
+       id="ArrowGreenStart"
+       style="overflow:visible">
+      <use
+         transform="scale(0.4,0.4)"
+         id="use9001"
+         style="fill:#00cc00;stroke:#00cc00"
+         width="3"
+         height="3"
+         xlink:href="#ArrowBase" />
+    </marker>
+    <marker
+       refX="0"
+       refY="0"
+       orient="auto"
+       id="Arrow2Mend"
+       style="overflow:visible">
+      <use
+         transform="scale(-0.6,-0.6)"
+         id="use8412"
+         width="3"
+         height="3"
+         xlink:href="#ArrowBase" />
+    </marker>
+    <linearGradient
+       id="linearGradient3730">
+      <stop
+         id="stop3732"
+         style="stop-color:#ffffff;stop-opacity:1"
+         offset="0" />
+      <stop
+         id="stop3734"
+         style="stop-color:#ffbc60;stop-opacity:1"
+         offset="0.5" />
+      <stop
+         id="stop3736"
+         style="stop-color:#ff9300;stop-opacity:1"
+         offset="0.75" />
+      <stop
+         id="stop3738"
+         style="stop-color:#cc7600;stop-opacity:1"
+         offset="1" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient3692">
+      <stop
+         id="stop3694"
+         style="stop-color:#ffffff;stop-opacity:1"
+         offset="0" />
+      <stop
+         id="stop3700"
+         style="stop-color:#ff6060;stop-opacity:1"
+         offset="0.5" />
+      <stop
+         id="stop3702"
+         style="stop-color:#ff0000;stop-opacity:1"
+         offset="0.75" />
+      <stop
+         id="stop3696"
+         style="stop-color:#cc0000;stop-opacity:1"
+         offset="1" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient4069">
+      <stop
+         id="stop4071"
+         style="stop-color:#00dcb5;stop-opacity:1"
+         offset="0" />
+      <stop
+         id="stop4073"
+         style="stop-color:#aafff0;stop-opacity:1"
+         offset="0.30000001" />
+      <stop
+         id="stop4075"
+         style="stop-color:#10ad91;stop-opacity:1"
+         offset="1" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient3976">
+      <stop
+         id="stop3978"
+         style="stop-color:#00dcdc;stop-opacity:1"
+         offset="0" />
+      <stop
+         id="stop3984"
+         style="stop-color:#aaffff;stop-opacity:1"
+         offset="0.30000001" />
+      <stop
+         id="stop3980"
+         style="stop-color:#10adad;stop-opacity:1"
+         offset="1" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient3658">
+      <stop
+         id="stop3660"
+         style="stop-color:#89ea6b;stop-opacity:1"
+         offset="0" />
+      <stop
+         id="stop3662"
+         style="stop-color:#daf1d2;stop-opacity:1"
+         offset="0.30000001" />
+      <stop
+         id="stop3664"
+         style="stop-color:#36e600;stop-opacity:1"
+         offset="1" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient3632">
+      <stop
+         id="stop3634"
+         style="stop-color:#27ae27;stop-opacity:1"
+         offset="0" />
+      <stop
+         id="stop3640"
+         style="stop-color:#95e795;stop-opacity:1"
+         offset="0.30000001" />
+      <stop
+         id="stop3636"
+         style="stop-color:#008000;stop-opacity:1"
+         offset="1" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient5771">
+      <stop
+         id="stop5773"
+         style="stop-color:#0000bb;stop-opacity:1"
+         offset="0" />
+      <stop
+         id="stop5785"
+         style="stop-color:#0000bb;stop-opacity:1"
+         offset="0.1" />
+      <stop
+         id="stop5779"
+         style="stop-color:#b7c3ea;stop-opacity:1"
+         offset="0.32499999" />
+      <stop
+         id="stop5781"
+         style="stop-color:#0000bb;stop-opacity:1"
+         offset="0.55000001" />
+      <stop
+         id="stop5783"
+         style="stop-color:#b7c3ea;stop-opacity:1"
+         offset="0.77499998" />
+      <stop
+         id="stop5775"
+         style="stop-color:#0000bb;stop-opacity:1"
+         offset="1" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient2840">
+      <stop
+         id="stop2842"
+         style="stop-color:#e6e400;stop-opacity:1"
+         offset="0" />
+      <stop
+         id="stop2844"
+         style="stop-color:#e6e400;stop-opacity:1"
+         offset="0.1" />
+      <stop
+         id="stop2846"
+         style="stop-color:#ffffff;stop-opacity:1"
+         offset="0.32499999" />
+      <stop
+         id="stop2848"
+         style="stop-color:#e6e400;stop-opacity:1"
+         offset="0.55000001" />
+      <stop
+         id="stop2850"
+         style="stop-color:#ffffff;stop-opacity:1"
+         offset="0.77499998" />
+      <stop
+         id="stop2852"
+         style="stop-color:#e6e400;stop-opacity:1"
+         offset="1" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient5199">
+      <stop
+         id="stop5201"
+         style="stop-color:#e6e400;stop-opacity:1"
+         offset="0" />
+      <stop
+         id="stop5203"
+         style="stop-color:#ffffff;stop-opacity:1"
+         offset="0.60000002" />
+      <stop
+         id="stop5205"
+         style="stop-color:#e6e400;stop-opacity:1"
+         offset="1" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient3776">
+      <stop
+         id="stop3778"
+         style="stop-color:#b40013;stop-opacity:1"
+         offset="0" />
+      <stop
+         id="stop3780"
+         style="stop-color:#e4acac;stop-opacity:1"
+         offset="0.60000002" />
+      <stop
+         id="stop3782"
+         style="stop-color:#b40013;stop-opacity:1"
+         offset="1" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient3761">
+      <stop
+         id="stop3763"
+         style="stop-color:#9f1200;stop-opacity:1"
+         offset="0" />
+      <stop
+         id="stop3769"
+         style="stop-color:#daa08e;stop-opacity:1"
+         offset="0.60000002" />
+      <stop
+         id="stop3765"
+         style="stop-color:#9f1200;stop-opacity:1"
+         offset="1" />
+    </linearGradient>
+    <linearGradient
+       x1="34.5"
+       y1="621.875"
+       x2="65.5"
+       y2="621.875"
+       id="linearGradient3767"
+       xlink:href="#linearGradient3761"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       x1="34.5"
+       y1="621.875"
+       x2="65.5"
+       y2="621.875"
+       id="linearGradient3784"
+       xlink:href="#linearGradient3776"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       x1="34.5"
+       y1="621.875"
+       x2="65.5"
+       y2="621.875"
+       id="linearGradient5207"
+       xlink:href="#linearGradient5199"
+       gradientUnits="userSpaceOnUse" />
+    <radialGradient
+       cx="746.9198"
+       cy="670"
+       r="16"
+       fx="746.9198"
+       fy="670"
+       id="radialGradient7084"
+       xlink:href="#linearGradient5771"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.25,8.7976674e-8,-1.3196502e-7,1.875,-188.64967,-586.25007)" />
+    <radialGradient
+       cx="746.9198"
+       cy="670"
+       r="16"
+       fx="746.9198"
+       fy="670"
+       id="radialGradient3642"
+       xlink:href="#linearGradient2840"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.25,8.7976674e-8,-1.3196502e-7,1.875,-188.64967,-586.25007)" />
+    <linearGradient
+       x1="1400"
+       y1="300"
+       x2="1433"
+       y2="307"
+       id="linearGradient3638"
+       xlink:href="#linearGradient3632"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       x1="1400"
+       y1="300"
+       x2="1433"
+       y2="307"
+       id="linearGradient3666"
+       xlink:href="#linearGradient3658"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       x1="900"
+       y1="115"
+       x2="930.09998"
+       y2="120"
+       id="linearGradient3982"
+       xlink:href="#linearGradient3976"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       x1="900"
+       y1="115"
+       x2="930.09998"
+       y2="120"
+       id="linearGradient4077"
+       xlink:href="#linearGradient4069"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       x1="10"
+       y1="115"
+       x2="35"
+       y2="120"
+       id="linearGradient3789"
+       xlink:href="#linearGradient3783"
+       gradientUnits="userSpaceOnUse" />
+    <radialGradient
+       cx="1515"
+       cy="1415"
+       r="20"
+       fx="1509"
+       fy="1409"
+       id="radialGradient3807"
+       xlink:href="#linearGradient3692"
+       gradientUnits="userSpaceOnUse" />
+    <radialGradient
+       cx="1515"
+       cy="1415"
+       r="20"
+       fx="1509"
+       fy="1409"
+       id="radialGradient3809"
+       xlink:href="#linearGradient3730"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       x1="10"
+       y1="115"
+       x2="35"
+       y2="120"
+       id="linearGradient3931"
+       xlink:href="#linearGradient3923"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       x1="958"
+       y1="1722"
+       x2="975"
+       y2="1725"
+       id="linearGradient3958"
+       xlink:href="#linearGradient3943"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-120,-65)" />
+    <path
+       d="M 50,600 L 35,637 C 45,641 55,641 65,637 L 50,600 z"
+       id="text-squid"
+       style="fill:url(#linearGradient3767);stroke:#000000;stroke-width:0.2" />
+    <path
+       d="M 50,600 L 35,637 C 45,641 55,641 65,637 L 50,600 z"
+       id="upload-squid"
+       style="fill:url(#linearGradient3784);fill-opacity:1;stroke:#000000;stroke-width:0.2" />
+    <path
+       d="M 50,600 L 35,637 C 45,641 55,641 65,637 L 50,600 z"
+       id="lb-squid"
+       style="fill:url(#linearGradient5207);fill-opacity:1;stroke:#000000;stroke-width:0.2" />
+    <g
+       id="apache">
+      <path
+         d="M 755,678 L 750,678 C 746.688,678 744,674.416 744,670 C 744,665.584 746.688,662 750,662 L 755,662 C 751.688,662 749,665.584 749,670 C 749,674.416 751.688,678 755,678 z"
+         id="path7131"
+         style="fill:#18338c;stroke:#000000;stroke-width:0.2" />
+      <path
+         d="M 755,690 L 750,690 C 758.28,690 765,681.04 765,670 C 765,658.96 758.28,650 750,650 L 755,650 C 763.28,650 770,658.96 770,670 C 770,681.04 763.28,690 755,690 z"
+         id="path7127"
+         style="fill:#18338c;stroke:#000000;stroke-width:0.2" />
+      <path
+         d="M 765,670 C 765,681.04 758.28,690 750,690 C 741.72,690 735,681.04 735,670 C 735,658.96 741.72,650 750,650 C 758.28,650 765,658.96 765,670 z M 756,670 C 756,674.416 753.312,678 750,678 C 746.688,678 744,674.416 744,670 C 744,665.584 746.688,662 750,662 C 753.312,662 756,665.584 756,670 z"
+         id="path5764"
+         style="fill:url(#radialGradient7084);fill-rule:evenodd;stroke:#000000;stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none" />
+    </g>
+    <g
+       id="lb-apache">
+      <path
+         d="M 755,678 L 750,678 C 746.688,678 744,674.416 744,670 C 744,665.584 746.688,662 750,662 L 755,662 C 751.688,662 749,665.584 749,670 C 749,674.416 751.688,678 755,678 z"
+         id="path2856"
+         style="fill:#ffff00;stroke:#000000;stroke-width:0.2" />
+      <path
+         d="M 755,690 L 750,690 C 758.28,690 765,681.04 765,670 C 765,658.96 758.28,650 750,650 L 755,650 C 763.28,650 770,658.96 770,670 C 770,681.04 763.28,690 755,690 z"
+         id="path2858"
+         style="fill:#ffff00;stroke:#000000;stroke-width:0.2" />
+      <path
+         d="M 765,670 C 765,681.04 758.28,690 750,690 C 741.72,690 735,681.04 735,670 C 735,658.96 741.72,650 750,650 C 758.28,650 765,658.96 765,670 z M 756,670 C 756,674.416 753.312,678 750,678 C 746.688,678 744,674.416 744,670 C 744,665.584 746.688,662 750,662 C 753.312,662 756,665.584 756,670 z"
+         id="path2860"
+         style="fill:url(#radialGradient3642);fill-rule:evenodd;stroke:#000000;stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none" />
+    </g>
+    <g
+       id="db-slave">
+      <path
+         d="M 1427,335 C 1427,337.208 1421.624,339 1415,339 C 1408.376,339 1403,337.208 1403,335 L 1400,300 L 1430,300 L 1427,335 z"
+         id="path2853"
+         style="fill:url(#linearGradient3638);stroke:#000000;stroke-width:0.2" />
+      <path
+         d="M 1430,300 C 1430,302.76142 1423.2843,305 1415,305 C 1406.7157,305 1400,302.76142 1400,300 C 1400,297.23858 1406.7157,295 1415,295 C 1423.2843,295 1430,297.23858 1430,300 z"
+         id="path2851"
+         style="fill:#00a600;stroke:#000000;stroke-width:0.2" />
+    </g>
+    <g
+       transform="scale(1.5,1.5)"
+       id="db-master">
+      <path
+         d="M 1427,335 C 1427,337.208 1421.624,339 1415,339 C 1408.376,339 1403,337.208 1403,335 L 1400,300 L 1430,300 L 1427,335 z"
+         id="path3650"
+         style="fill:url(#linearGradient3666);stroke:#000000;stroke-width:0.13333334" />
+      <path
+         d="M 1430,300 C 1430,302.76142 1423.2843,305 1415,305 C 1406.7157,305 1400,302.76142 1400,300 C 1400,297.23858 1406.7157,295 1415,295 C 1423.2843,295 1430,297.23858 1430,300 z"
+         id="path3653"
+         style="fill:#44e41c;stroke:#000000;stroke-width:0.13333334" />
+    </g>
+    <g
+       id="search">
+      <path
+         d="M 930,110 C 930,121.04 923.28,130 915,130 C 906.72,130 900,121.04 900,110"
+         id="path3973"
+         style="fill:url(#linearGradient3982);stroke:#000000;stroke-width:0.2" />
+      <path
+         d="M 930,110 C 930,112.76142 923.28427,115 915,115 C 906.71573,115 900,112.76142 900,110 C 900,107.23858 906.71573,105 915,105 C 923.28427,105 930,107.23858 930,110 z"
+         id="path3971"
+         style="fill:#00dcdc;stroke:#000000;stroke-width:0.2" />
+    </g>
+    <g
+       id="search-idx">
+      <path
+         d="M 930,110 C 930,121.04 923.28,130 915,130 C 906.72,130 900,121.04 900,110"
+         id="path4062"
+         style="fill:url(#linearGradient4077);stroke:#000000;stroke-width:0.2" />
+      <path
+         d="M 930,110 C 930,112.76142 923.28427,115 915,115 C 906.71573,115 900,112.76142 900,110 C 900,107.23858 906.71573,105 915,105 C 923.28427,105 930,107.23858 930,110 z"
+         id="path4064"
+         style="fill:#00dcb5;stroke:#000000;stroke-width:0.2" />
+    </g>
+    <g
+       id="web">
+      <path
+         d="M 10,100 L 30,100 L 30,135 L 10,135 L 10,100 z"
+         id="rect2964"
+         style="fill:url(#linearGradient3789);stroke:#000000;stroke-width:0.2" />
+      <path
+         d="M 30,100 L 40,95 L 40,130 L 30,135 L 30,100 z"
+         id="path3779"
+         style="fill:#a537a5;stroke:#000000;stroke-width:0.2" />
+      <path
+         d="M 10,100 L 30,100 L 40,95 L 20,95 L 10,100 z"
+         id="path3781"
+         style="fill:#ffaaff;stroke:#000000;stroke-width:0.2" />
+    </g>
+    <g
+       id="mail">
+      <path
+         d="M 10,100 L 30,100 L 30,135 L 10,135 L 10,100 z"
+         id="path3911"
+         style="fill:url(#linearGradient3931);fill-opacity:1;stroke:#000000;stroke-width:0.2" />
+      <path
+         d="M 30,100 L 40,95 L 40,130 L 30,135 L 30,100 z"
+         id="path3913"
+         style="fill:#8137a5;fill-opacity:1;stroke:#000000;stroke-width:0.2" />
+      <path
+         d="M 10,100 L 30,100 L 40,95 L 20,95 L 10,100 z"
+         id="path3915"
+         style="fill:#e2aaff;fill-opacity:1;stroke:#000000;stroke-width:0.2" />
+    </g>
+    <g
+       id="misc">
+      <path
+         d="M 835,1670 L 855,1670 L 850,1630 L 835,1670 z"
+         id="path3939"
+         style="fill:url(#linearGradient3958);fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         d="M 865,1660 L 855,1670 L 850,1630 L 865,1660 z"
+         id="path3941"
+         style="fill:#b3b3b3;fill-rule:evenodd;stroke:#000000;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    </g>
+    <path
+       d="M 1535,1417.5 C 1535,1427.165 1527.165,1435 1517.5,1435 C 1507.835,1435 1500,1427.165 1500,1417.5 C 1500,1407.835 1507.835,1400 1517.5,1400 C 1527.165,1400 1535,1407.835 1535,1417.5 z"
+       transform="translate(2.5,17.5)"
+       id="fs"
+       style="fill:url(#radialGradient3807);stroke:#000000;stroke-width:0.2" />
+    <path
+       d="M 1535,1417.5 C 1535,1427.165 1527.165,1435 1517.5,1435 C 1507.835,1435 1500,1427.165 1500,1417.5 C 1500,1407.835 1507.835,1400 1517.5,1400 C 1527.165,1400 1535,1407.835 1535,1417.5 z"
+       transform="translate(262.5,22.5)"
+       id="scaler"
+       style="fill:url(#radialGradient3809);fill-opacity:1;stroke:#000000;stroke-width:0.2" />
+  </defs>
+  <g
+     id="BaseGrid">
+    <path
+       d="M 820,1960 L 820,40"
+       id="path3673"
+       style="fill:none;stroke:#999999;stroke-width:5px" />
+    <path
+       d="M 40,1600 L 1960,1600"
+       id="path3677"
+       style="fill:none;stroke:#999999;stroke-width:5px" />
+    <text
+       x="410"
+       y="80"
+       id="text3681"
+       style="font-size:40px;font-weight:bold;text-anchor:middle;font-family:sans-serif">Internet frontend</text>
+    <text
+       x="1410"
+       y="80"
+       id="text3685"
+       style="font-size:40px;font-weight:bold;text-anchor:middle;font-family:sans-serif">Backend</text>
+    <text
+       x="800"
+       y="-1920"
+       transform="matrix(0,1,-1,0,0,0)"
+       id="text3689"
+       style="font-size:40px;font-weight:bold;text-anchor:middle;font-family:sans-serif">
+      <tspan
+         x="800"
+         y="-1920"
+         id="tspan3691">Core services</tspan>
+    </text>
+    <text
+       x="1800"
+       y="-1920"
+       transform="matrix(0,1,-1,0,0,0)"
+       id="text3693"
+       style="font-size:40px;font-weight:bold;text-anchor:middle;font-family:sans-serif">
+      <tspan
+         x="1800"
+         y="-1920"
+         id="tspan3695">Miscellaneous</tspan>
+      <tspan
+         x="1800"
+         y="-1870"
+         id="tspan3697">services</tspan>
+    </text>
+  </g>
+  <g
+     transform="translate(10,170)"
+     id="Squids">
+    <path
+       d="M 750,850 C 750,1048.8225 588.82251,1210 390,1210 C 191.17749,1210 30,1048.8225 30,850 C 30,651.17749 191.17749,490 390,490 C 588.82251,490 750,651.17749 750,850 L 750,850 z"
+       id="path4433"
+       style="opacity:0.2;fill:#000000" />
+    <text
+       x="390"
+       y="570"
+       id="text3167"
+       style="font-size:30px;font-weight:bold;text-anchor:middle;font-family:sans-serif">Squids</text>
+    <g
+       id="squids Tampa">
+      <rect
+         width="220"
+         height="435"
+         ry="40"
+         x="100"
+         y="635"
+         id="rect5568"
+         style="opacity:0.2;fill:#000000" />
+      <text
+         x="210"
+         y="660"
+         id="text3189"
+         style="font-size:24px;text-anchor:middle;font-family:sans-serif">Tampa</text>
+      <text
+         x="110"
+         y="685"
+         id="text3649"
+         style="font-size:18px;text-anchor:start;font-family:sans-serif">25 Text-Squids</text>
+      <text
+         x="110"
+         y="1040"
+         id="text3653"
+         style="font-size:18px;text-anchor:start;font-family:sans-serif">24 Upload-Squids</text>
+      <g
+         transform="translate(-50,45)"
+         id="text-squids Tampa">
+        <use
+           transform="translate(125,45)"
+           id="use3787"
+           xlink:href="#text-squid" />
+        <use
+           transform="translate(150,45)"
+           id="use3789"
+           xlink:href="#text-squid" />
+        <use
+           transform="translate(175,45)"
+           id="use3791"
+           xlink:href="#text-squid" />
+        <use
+           transform="translate(200,45)"
+           id="use3793"
+           xlink:href="#text-squid" />
+        <use
+           transform="translate(225,45)"
+           id="use3795"
+           xlink:href="#text-squid" />
+        <use
+           transform="translate(125,75)"
+           id="use3797"
+           xlink:href="#text-squid" />
+        <use
+           transform="translate(150,75)"
+           id="use3799"
+           xlink:href="#text-squid" />
+        <use
+           transform="translate(175,75)"
+           id="use3801"
+           xlink:href="#text-squid" />
+        <use
+           transform="translate(200,75)"
+           id="use3803"
+           xlink:href="#text-squid" />
+        <use
+           transform="translate(225,75)"
+           id="use3805"
+           xlink:href="#text-squid" />
+        <use
+           transform="translate(125,105)"
+           id="use3807"
+           xlink:href="#text-squid" />
+        <use
+           transform="translate(150,105)"
+           id="use3809"
+           xlink:href="#text-squid" />
+        <use
+           transform="translate(175,105)"
+           id="use3811"
+           xlink:href="#text-squid" />
+        <use
+           transform="translate(200,105)"
+           id="use3813"
+           xlink:href="#text-squid" />
+        <use
+           transform="translate(225,105)"
+           id="use3815"
+           xlink:href="#text-squid" />
+        <use
+           transform="translate(125,135)"
+           id="use3817"
+           xlink:href="#text-squid" />
+        <use
+           transform="translate(150,135)"
+           id="use3819"
+           xlink:href="#text-squid" />
+        <use
+           transform="translate(175,135)"
+           id="use3821"
+           xlink:href="#text-squid" />
+        <use
+           transform="translate(200,135)"
+           id="use3823"
+           xlink:href="#text-squid" />
+        <use
+           transform="translate(225,135)"
+           id="use3825"
+           xlink:href="#text-squid" />
+        <use
+           transform="translate(125,165)"
+           id="use3831"
+           xlink:href="#text-squid" />
+        <use
+           transform="translate(150,165)"
+           id="use3833"
+           xlink:href="#text-squid" />
+        <use
+           transform="translate(175,165)"
+           id="use3835"
+           xlink:href="#text-squid" />
+        <use
+           transform="translate(200,165)"
+           id="use3837"
+           xlink:href="#text-squid" />
+        <use
+           transform="translate(225,165)"
+           id="use3839"
+           xlink:href="#text-squid" />
+      </g>
+      <g
+         transform="translate(-50,215)"
+         id="upload-squids Tampa">
+        <use
+           transform="translate(125,45)"
+           id="use3870"
+           xlink:href="#upload-squid" />
+        <use
+           transform="translate(150,45)"
+           id="use3872"
+           xlink:href="#upload-squid" />
+        <use
+           transform="translate(175,45)"
+           id="use3874"
+           xlink:href="#upload-squid" />
+        <use
+           transform="translate(200,45)"
+           id="use3876"
+           xlink:href="#upload-squid" />
+        <use
+           transform="translate(225,45)"
+           id="use3878"
+           xlink:href="#upload-squid" />
+        <use
+           transform="translate(125,75)"
+           id="use3880"
+           xlink:href="#upload-squid" />
+        <use
+           transform="translate(150,75)"
+           id="use3882"
+           xlink:href="#upload-squid" />
+        <use
+           transform="translate(175,75)"
+           id="use3884"
+           xlink:href="#upload-squid" />
+        <use
+           transform="translate(200,75)"
+           id="use3886"
+           xlink:href="#upload-squid" />
+        <use
+           transform="translate(225,75)"
+           id="use3888"
+           xlink:href="#upload-squid" />
+        <use
+           transform="translate(125,105)"
+           id="use3890"
+           xlink:href="#upload-squid" />
+        <use
+           transform="translate(150,105)"
+           id="use3892"
+           xlink:href="#upload-squid" />
+        <use
+           transform="translate(175,105)"
+           id="use3894"
+           xlink:href="#upload-squid" />
+        <use
+           transform="translate(200,105)"
+           id="use3896"
+           xlink:href="#upload-squid" />
+        <use
+           transform="translate(225,105)"
+           id="use3898"
+           xlink:href="#upload-squid" />
+        <use
+           transform="translate(125,135)"
+           id="use3900"
+           xlink:href="#upload-squid" />
+        <use
+           transform="translate(150,135)"
+           id="use3902"
+           xlink:href="#upload-squid" />
+        <use
+           transform="translate(175,135)"
+           id="use3904"
+           xlink:href="#upload-squid" />
+        <use
+           transform="translate(200,135)"
+           id="use3906"
+           xlink:href="#upload-squid" />
+        <use
+           transform="translate(225,135)"
+           id="use3908"
+           xlink:href="#upload-squid" />
+        <use
+           transform="translate(125,165)"
+           id="use3910"
+           xlink:href="#upload-squid" />
+        <use
+           transform="translate(150,165)"
+           id="use3912"
+           xlink:href="#upload-squid" />
+        <use
+           transform="translate(175,165)"
+           id="use3914"
+           xlink:href="#upload-squid" />
+        <use
+           transform="translate(200,165)"
+           id="use3916"
+           xlink:href="#upload-squid" />
+      </g>
+      <use
+         transform="translate(230,150)"
+         id="use5574"
+         xlink:href="#lb-squid" />
+      <text
+         x="280"
+         y="805"
+         id="text5576"
+         style="font-size:15px;text-anchor:middle;font-family:sans-serif">
+        <tspan
+           x="280"
+           y="805"
+           id="tspan4239">Load-</tspan>
+        <tspan
+           x="280"
+           y="822"
+           id="tspan4241">Balancer</tspan>
+      </text>
+      <path
+         d="M 265,770 L 240,770"
+         id="path5608"
+         style="fill:none;stroke:#000000;stroke-width:2;marker-end:url(#Arrow2Mend)" />
+      <use
+         transform="translate(230,320)"
+         id="use4383"
+         xlink:href="#lb-squid" />
+      <text
+         x="280"
+         y="975"
+         id="text4385"
+         style="font-size:15px;text-anchor:middle;font-family:sans-serif">
+        <tspan
+           x="280"
+           y="975"
+           id="tspan4387">Load-</tspan>
+        <tspan
+           x="280"
+           y="992"
+           id="tspan4389">Balancer</tspan>
+      </text>
+      <path
+         d="M 265,940 L 240,940"
+         id="path4391"
+         style="fill:none;stroke:#000000;stroke-width:2;marker-end:url(#Arrow2Mend)" />
+    </g>
+    <g
+       id="squids Amsterdam">
+      <rect
+         width="170"
+         height="435"
+         ry="40"
+         x="330"
+         y="635"
+         id="rect5435"
+         style="opacity:0.2;fill:#000000" />
+      <text
+         x="415"
+         y="660"
+         id="text4097"
+         style="font-size:24px;text-anchor:middle;font-family:sans-serif">Amsterdam</text>
+      <text
+         x="340"
+         y="685"
+         id="text4093"
+         style="font-size:18px;text-anchor:start;font-family:sans-serif">15 Text-Squids</text>
+      <text
+         x="340"
+         y="1040"
+         id="text4089"
+         style="font-size:18px;text-anchor:start;font-family:sans-serif">15 Upload-Squids</text>
+      <g
+         transform="translate(180,45)"
+         id="text-squids Amsterdam">
+        <use
+           transform="translate(125,45)"
+           id="use3922"
+           xlink:href="#text-squid" />
+        <use
+           transform="translate(150,45)"
+           id="use3924"
+           xlink:href="#text-squid" />
+        <use
+           transform="translate(175,45)"
+           id="use3926"
+           xlink:href="#text-squid" />
+        <use
+           transform="translate(125,75)"
+           id="use3932"
+           xlink:href="#text-squid" />
+        <use
+           transform="translate(150,75)"
+           id="use3934"
+           xlink:href="#text-squid" />
+        <use
+           transform="translate(175,75)"
+           id="use3936"
+           xlink:href="#text-squid" />
+        <use
+           transform="translate(125,105)"
+           id="use3942"
+           xlink:href="#text-squid" />
+        <use
+           transform="translate(150,105)"
+           id="use3944"
+           xlink:href="#text-squid" />
+        <use
+           transform="translate(175,105)"
+           id="use3946"
+           xlink:href="#text-squid" />
+        <use
+           transform="translate(125,135)"
+           id="use3928"
+           xlink:href="#text-squid" />
+        <use
+           transform="translate(150,135)"
+           id="use3938"
+           xlink:href="#text-squid" />
+        <use
+           transform="translate(175,135)"
+           id="use3948"
+           xlink:href="#text-squid" />
+        <use
+           transform="translate(125,165)"
+           id="use3930"
+           xlink:href="#text-squid" />
+        <use
+           transform="translate(150,165)"
+           id="use3940"
+           xlink:href="#text-squid" />
+        <use
+           transform="translate(175,165)"
+           id="use3950"
+           xlink:href="#text-squid" />
+      </g>
+      <g
+         transform="translate(180,215)"
+         id="upload-squids Amsterdam">
+        <use
+           transform="translate(125,45)"
+           id="use3974"
+           xlink:href="#upload-squid" />
+        <use
+           transform="translate(150,45)"
+           id="use3976"
+           xlink:href="#upload-squid" />
+        <use
+           transform="translate(175,45)"
+           id="use3978"
+           xlink:href="#upload-squid" />
+        <use
+           transform="translate(125,75)"
+           id="use3984"
+           xlink:href="#upload-squid" />
+        <use
+           transform="translate(150,75)"
+           id="use3986"
+           xlink:href="#upload-squid" />
+        <use
+           transform="translate(175,75)"
+           id="use3988"
+           xlink:href="#upload-squid" />
+        <use
+           transform="translate(125,105)"
+           id="use3994"
+           xlink:href="#upload-squid" />
+        <use
+           transform="translate(150,105)"
+           id="use3996"
+           xlink:href="#upload-squid" />
+        <use
+           transform="translate(175,105)"
+           id="use3998"
+           xlink:href="#upload-squid" />
+        <use
+           transform="translate(125,135)"
+           id="use4000"
+           xlink:href="#upload-squid" />
+        <use
+           transform="translate(125,165)"
+           id="use4002"
+           xlink:href="#upload-squid" />
+        <use
+           transform="translate(150,135)"
+           id="use3990"
+           xlink:href="#upload-squid" />
+        <use
+           transform="translate(175,135)"
+           id="use3980"
+           xlink:href="#upload-squid" />
+        <use
+           transform="translate(150,165)"
+           id="use3992"
+           xlink:href="#upload-squid" />
+        <use
+           transform="translate(175,165)"
+           id="use3982"
+           xlink:href="#upload-squid" />
+      </g>
+      <use
+         transform="translate(410,235)"
+         id="use5419"
+         xlink:href="#lb-squid" />
+      <text
+         x="460"
+         y="890"
+         id="text4371"
+         style="font-size:15px;text-anchor:middle;font-family:sans-serif">
+        <tspan
+           x="460"
+           y="890"
+           id="tspan4373">Load-</tspan>
+        <tspan
+           x="460"
+           y="907"
+           id="tspan4375">Balancer</tspan>
+      </text>
+      <path
+         d="M 450,915 L 430,945"
+         id="path5425"
+         style="fill:none;stroke:#000000;stroke-width:2;marker-end:url(#Arrow2Mend)" />
+      <path
+         d="M 450,830 L 430,780"
+         id="path5427"
+         style="fill:none;stroke:#000000;stroke-width:2;marker-end:url(#Arrow2Mend)" />
+    </g>
+    <g
+       id="squids Seoul">
+      <rect
+         width="170"
+         height="435"
+         ry="40"
+         x="510"
+         y="635"
+         id="rect5190"
+         style="opacity:0.2;fill:#000000" />
+      <text
+         x="595"
+         y="660"
+         id="text4111"
+         style="font-size:24px;text-anchor:middle;font-family:sans-serif">Seoul</text>
+      <text
+         x="520"
+         y="685"
+         id="text4107"
+         style="font-size:18px;text-anchor:start;font-family:sans-serif">8 Text-Squids</text>
+      <text
+         x="520"
+         y="1040"
+         id="text4103"
+         style="font-size:18px;text-anchor:start;font-family:sans-serif">9 Upload-Squids</text>
+      <g
+         transform="translate(360,45)"
+         id="text-squids Seoul">
+        <use
+           transform="translate(125,45)"
+           id="use4024"
+           xlink:href="#text-squid" />
+        <use
+           transform="translate(150,45)"
+           id="use4026"
+           xlink:href="#text-squid" />
+        <use
+           transform="translate(125,75)"
+           id="use4034"
+           xlink:href="#text-squid" />
+        <use
+           transform="translate(150,75)"
+           id="use4036"
+           xlink:href="#text-squid" />
+        <use
+           transform="translate(125,105)"
+           id="use4028"
+           xlink:href="#text-squid" />
+        <use
+           transform="translate(150,105)"
+           id="use4038"
+           xlink:href="#text-squid" />
+        <use
+           transform="translate(125,135)"
+           id="use4030"
+           xlink:href="#text-squid" />
+        <use
+           transform="translate(125,165)"
+           id="use4032"
+           xlink:href="#text-squid" />
+      </g>
+      <g
+         transform="translate(360,215)"
+         id="upload-squids Seoul">
+        <use
+           transform="translate(125,45)"
+           id="use4056"
+           xlink:href="#upload-squid" />
+        <use
+           transform="translate(150,45)"
+           id="use4058"
+           xlink:href="#upload-squid" />
+        <use
+           transform="translate(125,75)"
+           id="use4066"
+           xlink:href="#upload-squid" />
+        <use
+           transform="translate(150,75)"
+           id="use4068"
+           xlink:href="#upload-squid" />
+        <use
+           transform="translate(125,105)"
+           id="use4070"
+           xlink:href="#upload-squid" />
+        <use
+           transform="translate(125,135)"
+           id="use4072"
+           xlink:href="#upload-squid" />
+        <use
+           transform="translate(125,165)"
+           id="use4064"
+           xlink:href="#upload-squid" />
+        <use
+           transform="translate(150,105)"
+           id="use4060"
+           xlink:href="#upload-squid" />
+        <use
+           transform="translate(150,135)"
+           id="use4062"
+           xlink:href="#upload-squid" />
+      </g>
+      <use
+         transform="translate(590,235)"
+         id="use4393"
+         xlink:href="#lb-squid" />
+      <text
+         x="640"
+         y="890"
+         id="text4395"
+         style="font-size:15px;text-anchor:middle;font-family:sans-serif">
+        <tspan
+           x="640"
+           y="890"
+           id="tspan4397">Load-</tspan>
+        <tspan
+           x="640"
+           y="907"
+           id="tspan4399">Balancer</tspan>
+      </text>
+      <path
+         d="M 625,915 L 585,945"
+         id="path4401"
+         style="fill:none;stroke:#000000;stroke-width:2;marker-end:url(#Arrow2Mend)" />
+      <path
+         d="M 625,830 L 585,780"
+         id="path4403"
+         style="fill:none;stroke:#000000;stroke-width:2;marker-end:url(#Arrow2Mend)" />
+    </g>
+  </g>
+  <g
+     transform="translate(140,150)"
+     id="Apaches">
+    <path
+       d="M 1380,900 C 1380,1076.7311 1236.7311,1220 1060,1220 C 883.26888,1220 740,1076.7311 740,900 C 740,723.26888 883.26888,580 1060,580 C 1236.7311,580 1380,723.26888 1380,900 L 1380,900 z"
+       id="path7864"
+       style="opacity:0.2;fill:#000000" />
+    <text
+       x="1060"
+       y="640"
+       id="text3173"
+       style="font-size:30px;font-weight:bold;text-anchor:middle;font-family:sans-serif">Apaches</text>
+    <g
+       transform="translate(80,0)"
+       id="g7758">
+      <use
+         transform="translate(45,210)"
+         id="use7152"
+         xlink:href="#apache" />
+      <use
+         transform="translate(70,210)"
+         id="use7154"
+         xlink:href="#apache" />
+      <use
+         transform="translate(95,210)"
+         id="use7156"
+         xlink:href="#apache" />
+      <use
+         transform="translate(120,210)"
+         id="use7158"
+         xlink:href="#apache" />
+      <use
+         transform="translate(145,210)"
+         id="use7160"
+         xlink:href="#apache" />
+      <use
+         transform="translate(170,210)"
+         id="use7162"
+         xlink:href="#apache" />
+      <use
+         transform="translate(195,210)"
+         id="use7164"
+         xlink:href="#apache" />
+      <use
+         transform="translate(220,210)"
+         id="use7166"
+         xlink:href="#apache" />
+      <use
+         transform="translate(245,210)"
+         id="use7168"
+         xlink:href="#apache" />
+      <use
+         transform="translate(270,210)"
+         id="use7170"
+         xlink:href="#apache" />
+      <use
+         transform="translate(295,210)"
+         id="use7312"
+         xlink:href="#apache" />
+      <use
+         transform="translate(320,210)"
+         id="use7314"
+         xlink:href="#apache" />
+      <use
+         transform="translate(345,210)"
+         id="use7316"
+         xlink:href="#apache" />
+      <use
+         transform="translate(370,210)"
+         id="use7318"
+         xlink:href="#apache" />
+      <use
+         transform="translate(395,210)"
+         id="use7320"
+         xlink:href="#apache" />
+      <use
+         transform="translate(45,240)"
+         id="use7322"
+         xlink:href="#apache" />
+      <use
+         transform="translate(70,240)"
+         id="use7324"
+         xlink:href="#apache" />
+      <use
+         transform="translate(95,240)"
+         id="use7326"
+         xlink:href="#apache" />
+      <use
+         transform="translate(120,240)"
+         id="use7328"
+         xlink:href="#apache" />
+      <use
+         transform="translate(145,240)"
+         id="use7330"
+         xlink:href="#apache" />
+      <use
+         transform="translate(170,240)"
+         id="use7332"
+         xlink:href="#apache" />
+      <use
+         transform="translate(195,240)"
+         id="use7334"
+         xlink:href="#apache" />
+      <use
+         transform="translate(220,240)"
+         id="use7336"
+         xlink:href="#apache" />
+      <use
+         transform="translate(245,240)"
+         id="use7338"
+         xlink:href="#apache" />
+      <use
+         transform="translate(270,240)"
+         id="use7340"
+         xlink:href="#apache" />
+    </g>
+    <g
+       transform="translate(80,20)"
+       id="g7702">
+      <use
+         transform="translate(45,10)"
+         id="use7442"
+         xlink:href="#apache" />
+      <use
+         transform="translate(70,10)"
+         id="use7444"
+         xlink:href="#apache" />
+      <use
+         transform="translate(95,10)"
+         id="use7446"
+         xlink:href="#apache" />
+      <use
+         transform="translate(120,10)"
+         id="use7448"
+         xlink:href="#apache" />
+      <use
+         transform="translate(145,10)"
+         id="use7450"
+         xlink:href="#apache" />
+      <use
+         transform="translate(170,10)"
+         id="use7452"
+         xlink:href="#apache" />
+      <use
+         transform="translate(195,10)"
+         id="use7454"
+         xlink:href="#apache" />
+      <use
+         transform="translate(220,10)"
+         id="use7456"
+         xlink:href="#apache" />
+      <use
+         transform="translate(245,10)"
+         id="use7458"
+         xlink:href="#apache" />
+      <use
+         transform="translate(270,10)"
+         id="use7460"
+         xlink:href="#apache" />
+      <use
+         transform="translate(295,10)"
+         id="use7462"
+         xlink:href="#apache" />
+      <use
+         transform="translate(320,10)"
+         id="use7464"
+         xlink:href="#apache" />
+      <use
+         transform="translate(345,10)"
+         id="use7466"
+         xlink:href="#apache" />
+      <use
+         transform="translate(370,10)"
+         id="use7468"
+         xlink:href="#apache" />
+      <use
+         transform="translate(395,10)"
+         id="use7470"
+         xlink:href="#apache" />
+      <use
+         transform="translate(45,40)"
+         id="use7472"
+         xlink:href="#apache" />
+      <use
+         transform="translate(70,40)"
+         id="use7474"
+         xlink:href="#apache" />
+      <use
+         transform="translate(95,40)"
+         id="use7476"
+         xlink:href="#apache" />
+      <use
+         transform="translate(120,40)"
+         id="use7478"
+         xlink:href="#apache" />
+      <use
+         transform="translate(145,40)"
+         id="use7480"
+         xlink:href="#apache" />
+      <use
+         transform="translate(170,40)"
+         id="use7482"
+         xlink:href="#apache" />
+      <use
+         transform="translate(195,40)"
+         id="use7484"
+         xlink:href="#apache" />
+      <use
+         transform="translate(220,40)"
+         id="use7486"
+         xlink:href="#apache" />
+      <use
+         transform="translate(245,40)"
+         id="use7488"
+         xlink:href="#apache" />
+      <use
+         transform="translate(270,40)"
+         id="use7490"
+         xlink:href="#apache" />
+      <use
+         transform="translate(295,40)"
+         id="use7492"
+         xlink:href="#apache" />
+      <use
+         transform="translate(320,40)"
+         id="use7494"
+         xlink:href="#apache" />
+      <use
+         transform="translate(345,40)"
+         id="use7496"
+         xlink:href="#apache" />
+      <use
+         transform="translate(370,40)"
+         id="use7498"
+         xlink:href="#apache" />
+      <use
+         transform="translate(395,40)"
+         id="use7500"
+         xlink:href="#apache" />
+      <use
+         transform="translate(45,70)"
+         id="use7502"
+         xlink:href="#apache" />
+      <use
+         transform="translate(70,70)"
+         id="use7504"
+         xlink:href="#apache" />
+      <use
+         transform="translate(95,70)"
+         id="use7506"
+         xlink:href="#apache" />
+      <use
+         transform="translate(120,70)"
+         id="use7508"
+         xlink:href="#apache" />
+      <use
+         transform="translate(145,70)"
+         id="use7510"
+         xlink:href="#apache" />
+      <use
+         transform="translate(170,70)"
+         id="use7512"
+         xlink:href="#apache" />
+      <use
+         transform="translate(195,70)"
+         id="use7514"
+         xlink:href="#apache" />
+      <use
+         transform="translate(220,70)"
+         id="use7516"
+         xlink:href="#apache" />
+      <use
+         transform="translate(245,70)"
+         id="use7518"
+         xlink:href="#apache" />
+      <use
+         transform="translate(270,70)"
+         id="use7520"
+         xlink:href="#apache" />
+      <use
+         transform="translate(295,70)"
+         id="use7522"
+         xlink:href="#apache" />
+      <use
+         transform="translate(320,70)"
+         id="use7524"
+         xlink:href="#apache" />
+      <use
+         transform="translate(345,70)"
+         id="use7526"
+         xlink:href="#apache" />
+      <use
+         transform="translate(370,70)"
+         id="use7528"
+         xlink:href="#apache" />
+      <use
+         transform="translate(395,70)"
+         id="use7530"
+         xlink:href="#apache" />
+      <use
+         transform="translate(45,100)"
+         id="use7532"
+         xlink:href="#apache" />
+      <use
+         transform="translate(70,100)"
+         id="use7534"
+         xlink:href="#apache" />
+      <use
+         transform="translate(95,100)"
+         id="use7536"
+         xlink:href="#apache" />
+      <use
+         transform="translate(120,100)"
+         id="use7538"
+         xlink:href="#apache" />
+      <use
+         transform="translate(145,100)"
+         id="use7540"
+         xlink:href="#apache" />
+      <use
+         transform="translate(170,100)"
+         id="use7542"
+         xlink:href="#apache" />
+      <use
+         transform="translate(195,100)"
+         id="use7544"
+         xlink:href="#apache" />
+      <use
+         transform="translate(220,100)"
+         id="use7546"
+         xlink:href="#apache" />
+      <use
+         transform="translate(245,100)"
+         id="use7548"
+         xlink:href="#apache" />
+    </g>
+    <g
+       transform="translate(80,-80)"
+       id="g7785">
+      <use
+         transform="translate(45,410)"
+         id="use7572"
+         xlink:href="#apache" />
+      <use
+         transform="translate(70,410)"
+         id="use7574"
+         xlink:href="#apache" />
+      <use
+         transform="translate(95,410)"
+         id="use7576"
+         xlink:href="#apache" />
+      <use
+         transform="translate(120,410)"
+         id="use7578"
+         xlink:href="#apache" />
+      <use
+         transform="translate(145,410)"
+         id="use7580"
+         xlink:href="#apache" />
+      <use
+         transform="translate(170,410)"
+         id="use7582"
+         xlink:href="#apache" />
+      <use
+         transform="translate(195,410)"
+         id="use7584"
+         xlink:href="#apache" />
+      <use
+         transform="translate(220,410)"
+         id="use7586"
+         xlink:href="#apache" />
+      <use
+         transform="translate(245,410)"
+         id="use7588"
+         xlink:href="#apache" />
+      <use
+         transform="translate(270,410)"
+         id="use7590"
+         xlink:href="#apache" />
+      <use
+         transform="translate(295,410)"
+         id="use7592"
+         xlink:href="#apache" />
+      <use
+         transform="translate(320,410)"
+         id="use7594"
+         xlink:href="#apache" />
+      <use
+         transform="translate(345,410)"
+         id="use7596"
+         xlink:href="#apache" />
+      <use
+         transform="translate(370,410)"
+         id="use7598"
+         xlink:href="#apache" />
+      <use
+         transform="translate(395,410)"
+         id="use7600"
+         xlink:href="#apache" />
+      <use
+         transform="translate(45,440)"
+         id="use7602"
+         xlink:href="#apache" />
+      <use
+         transform="translate(70,440)"
+         id="use7604"
+         xlink:href="#apache" />
+      <use
+         transform="translate(95,440)"
+         id="use7606"
+         xlink:href="#apache" />
+      <use
+         transform="translate(120,440)"
+         id="use7608"
+         xlink:href="#apache" />
+      <use
+         transform="translate(145,440)"
+         id="use7610"
+         xlink:href="#apache" />
+      <use
+         transform="translate(170,440)"
+         id="use7612"
+         xlink:href="#apache" />
+      <use
+         transform="translate(195,440)"
+         id="use7614"
+         xlink:href="#apache" />
+      <use
+         transform="translate(220,440)"
+         id="use7616"
+         xlink:href="#apache" />
+      <use
+         transform="translate(245,440)"
+         id="use7618"
+         xlink:href="#apache" />
+      <use
+         transform="translate(270,440)"
+         id="use7620"
+         xlink:href="#apache" />
+      <use
+         transform="translate(295,440)"
+         id="use7622"
+         xlink:href="#apache" />
+      <use
+         transform="translate(320,440)"
+         id="use7624"
+         xlink:href="#apache" />
+      <use
+         transform="translate(345,440)"
+         id="use7626"
+         xlink:href="#apache" />
+      <use
+         transform="translate(370,440)"
+         id="use7628"
+         xlink:href="#apache" />
+      <use
+         transform="translate(395,440)"
+         id="use7630"
+         xlink:href="#apache" />
+      <use
+         transform="translate(45,470)"
+         id="use7632"
+         xlink:href="#apache" />
+      <use
+         transform="translate(70,470)"
+         id="use7634"
+         xlink:href="#apache" />
+      <use
+         transform="translate(95,470)"
+         id="use7636"
+         xlink:href="#apache" />
+      <use
+         transform="translate(120,470)"
+         id="use7638"
+         xlink:href="#apache" />
+      <use
+         transform="translate(145,470)"
+         id="use7640"
+         xlink:href="#apache" />
+      <use
+         transform="translate(170,470)"
+         id="use7642"
+         xlink:href="#apache" />
+      <use
+         transform="translate(195,470)"
+         id="use7644"
+         xlink:href="#apache" />
+      <use
+         transform="translate(220,470)"
+         id="use7646"
+         xlink:href="#apache" />
+      <use
+         transform="translate(245,470)"
+         id="use7648"
+         xlink:href="#apache" />
+      <use
+         transform="translate(270,470)"
+         id="use7650"
+         xlink:href="#apache" />
+      <use
+         transform="translate(295,470)"
+         id="use7652"
+         xlink:href="#apache" />
+      <use
+         transform="translate(320,470)"
+         id="use7654"
+         xlink:href="#apache" />
+      <use
+         transform="translate(345,470)"
+         id="use7656"
+         xlink:href="#apache" />
+      <use
+         transform="translate(370,470)"
+         id="use7658"
+         xlink:href="#apache" />
+      <use
+         transform="translate(395,470)"
+         id="use7660"
+         xlink:href="#apache" />
+      <use
+         transform="translate(45,500)"
+         id="use7662"
+         xlink:href="#apache" />
+      <use
+         transform="translate(70,500)"
+         id="use7664"
+         xlink:href="#apache" />
+      <use
+         transform="translate(95,500)"
+         id="use7666"
+         xlink:href="#apache" />
+      <use
+         transform="translate(120,500)"
+         id="use7668"
+         xlink:href="#apache" />
+      <use
+         transform="translate(145,500)"
+         id="use7670"
+         xlink:href="#apache" />
+      <use
+         transform="translate(170,500)"
+         id="use7672"
+         xlink:href="#apache" />
+      <use
+         transform="translate(195,500)"
+         id="use7674"
+         xlink:href="#apache" />
+      <use
+         transform="translate(220,500)"
+         id="use7676"
+         xlink:href="#apache" />
+      <use
+         transform="translate(245,500)"
+         id="use7678"
+         xlink:href="#apache" />
+      <use
+         transform="translate(270,500)"
+         id="use7680"
+         xlink:href="#apache" />
+      <use
+         transform="translate(295,500)"
+         id="use7682"
+         xlink:href="#apache" />
+      <use
+         transform="translate(320,500)"
+         id="use7684"
+         xlink:href="#apache" />
+      <use
+         transform="translate(345,500)"
+         id="use7686"
+         xlink:href="#apache" />
+      <use
+         transform="translate(370,500)"
+         id="use7688"
+         xlink:href="#apache" />
+      <use
+         transform="translate(395,500)"
+         id="use7690"
+         xlink:href="#apache" />
+      <use
+         transform="translate(45,530)"
+         id="use7692"
+         xlink:href="#apache" />
+      <use
+         transform="translate(70,530)"
+         id="use7694"
+         xlink:href="#apache" />
+      <use
+         transform="translate(95,530)"
+         id="use7696"
+         xlink:href="#apache" />
+      <use
+         transform="translate(120,530)"
+         id="use7698"
+         xlink:href="#apache" />
+      <use
+         transform="translate(145,530)"
+         id="use7700"
+         xlink:href="#apache" />
+    </g>
+    <text
+       x="1050"
+       y="830"
+       id="text7852"
+       style="font-size:18px;text-anchor:middle;font-family:sans-serif">54 Apache-Core/ext store</text>
+    <text
+       x="1050"
+       y="950"
+       id="text7856"
+       style="font-size:18px;text-anchor:middle;font-family:sans-serif">25 Apache-Core/ex-ES</text>
+    <text
+       x="1050"
+       y="1160"
+       id="text7860"
+       style="font-size:18px;text-anchor:middle;font-family:sans-serif">65 Apache-Core</text>
+    <use
+       transform="translate(540,195)"
+       id="use2833"
+       xlink:href="#lb-apache" />
+    <use
+       transform="translate(540,225)"
+       id="use2836"
+       xlink:href="#lb-apache" />
+    <use
+       transform="translate(540,255)"
+       id="use2838"
+       xlink:href="#lb-apache" />
+    <text
+       x="-900"
+       y="1330"
+       transform="matrix(0,-1,1,0,0,0)"
+       id="text3648"
+       style="font-size:15px;text-anchor:middle;font-family:sans-serif">Load-Balancers</text>
+    <path
+       d="M 1270,895 L 1255,895"
+       id="path3652"
+       style="fill:none;stroke:#000000;stroke-width:2;marker-end:url(#Arrow2Mend)" />
+    <path
+       d="M 1275,845 L 1255,780"
+       id="path3654"
+       style="fill:none;stroke:#000000;stroke-width:2;marker-end:url(#Arrow2Mend)" />
+    <path
+       d="M 1275,945 L 1255,1015"
+       id="path3656"
+       style="fill:none;stroke:#000000;stroke-width:2;marker-end:url(#Arrow2Mend)" />
+  </g>
+  <g
+     transform="translate(100,-30)"
+     id="Database">
+    <path
+       d="M 1810,580 C 1810,707.02549 1707.0255,810 1580,810 C 1452.9745,810 1350,707.02549 1350,580 C 1350,452.97451 1452.9745,350 1580,350 C 1707.0255,350 1810,452.97451 1810,580 z"
+       id="path3750"
+       style="opacity:0.2;fill:#000000" />
+    <text
+       x="1580"
+       y="400"
+       id="text3781"
+       style="font-size:30px;font-weight:bold;text-anchor:middle;font-family:sans-serif">Databases</text>
+    <g
+       id="s1">
+      <use
+         transform="translate(-600,-5)"
+         id="use3673"
+         xlink:href="#db-master" />
+      <use
+         transform="translate(160,140)"
+         id="use3675"
+         xlink:href="#db-slave" />
+      <use
+         transform="translate(185,140)"
+         id="use3677"
+         xlink:href="#db-slave" />
+      <use
+         transform="translate(210,140)"
+         id="use3679"
+         xlink:href="#db-slave" />
+      <use
+         transform="translate(235,140)"
+         id="use3685"
+         xlink:href="#db-slave" />
+      <use
+         transform="translate(160,170)"
+         id="use3687"
+         xlink:href="#db-slave" />
+      <use
+         transform="translate(185,170)"
+         id="use3689"
+         xlink:href="#db-slave" />
+      <use
+         transform="translate(210,170)"
+         id="use3691"
+         xlink:href="#db-slave" />
+      <use
+         transform="translate(235,170)"
+         id="use3693"
+         xlink:href="#db-slave" />
+      <text
+         x="1580"
+         y="430"
+         id="text3753"
+         style="font-size:18px;text-anchor:middle;font-family:sans-serif">s1: enwiki</text>
+      <text
+         x="1520"
+         y="525"
+         id="text3757"
+         style="font-size:15px;text-anchor:middle;font-family:sans-serif">Master</text>
+      <text
+         x="1610"
+         y="525"
+         id="text3761"
+         style="font-size:15px;text-anchor:middle;font-family:sans-serif">8 slaves</text>
+    </g>
+    <g
+       id="s2">
+      <use
+         transform="translate(-710,125)"
+         id="use3708"
+         xlink:href="#db-master" />
+      <use
+         transform="translate(50,270)"
+         id="use3710"
+         xlink:href="#db-slave" />
+      <use
+         transform="translate(75,270)"
+         id="use3712"
+         xlink:href="#db-slave" />
+      <use
+         transform="translate(100,270)"
+         id="use3714"
+         xlink:href="#db-slave" />
+      <use
+         transform="translate(50,300)"
+         id="use3718"
+         xlink:href="#db-slave" />
+      <use
+         transform="translate(75,300)"
+         id="use3720"
+         xlink:href="#db-slave" />
+      <text
+         x="1460"
+         y="560"
+         id="text3763"
+         style="font-size:18px;text-anchor:middle;font-family:sans-serif">s2: commons, de,...</text>
+      <text
+         x="1410"
+         y="655"
+         id="text3765"
+         style="font-size:15px;text-anchor:middle;font-family:sans-serif">Master</text>
+      <text
+         x="1490"
+         y="655"
+         id="text3767"
+         style="font-size:15px;text-anchor:middle;font-family:sans-serif">5 slaves</text>
+    </g>
+    <g
+       id="s3">
+      <use
+         transform="translate(-570,255)"
+         id="use3728"
+         xlink:href="#db-master" />
+      <use
+         transform="translate(190,415)"
+         id="use3730"
+         xlink:href="#db-slave" />
+      <use
+         transform="translate(215,415)"
+         id="use3732"
+         xlink:href="#db-slave" />
+      <use
+         transform="translate(240,415)"
+         id="use3734"
+         xlink:href="#db-slave" />
+      <text
+         x="1600"
+         y="690"
+         id="text3775"
+         style="font-size:18px;text-anchor:middle;font-family:sans-serif">s3: other wikis</text>
+      <text
+         x="1550"
+         y="780"
+         id="text3777"
+         style="font-size:15px;text-anchor:middle;font-family:sans-serif">Master</text>
+      <text
+         x="1630"
+         y="780"
+         id="text3779"
+         style="font-size:15px;text-anchor:middle;font-family:sans-serif">3 slaves</text>
+    </g>
+    <g
+       id="g3964">
+      <use
+         transform="translate(-420,95)"
+         id="use3742"
+         xlink:href="#db-master" />
+      <use
+         transform="translate(340,255)"
+         id="use3744"
+         xlink:href="#db-slave" />
+      <text
+         x="1730"
+         y="530"
+         id="text3769"
+         style="font-size:18px;text-anchor:middle;font-family:sans-serif">misc</text>
+      <text
+         x="1695"
+         y="620"
+         id="text3771"
+         style="font-size:15px;text-anchor:middle;font-family:sans-serif">Master</text>
+      <text
+         x="1760"
+         y="620"
+         id="text3773"
+         style="font-size:15px;text-anchor:middle;font-family:sans-serif">Slave</text>
+    </g>
+  </g>
+  <g
+     transform="translate(0,-100)"
+     id="Toolservers">
+    <path
+       d="M 505,330 C 505,385.22848 460.22848,430 405,430 C 349.77152,430 305,385.22848 305,330 C 305,274.77152 349.77152,230 405,230 C 460.22848,230 505,274.77152 505,330 L 505,330 z"
+       transform="translate(0,10)"
+       id="path3039"
+       style="opacity:0.2;fill:#000000" />
+    <text
+       x="405"
+       y="230"
+       id="text3297"
+       style="font-size:30px;font-weight:bold;text-anchor:middle;font-family:sans-serif">Toolservers</text>
+    <use
+       transform="translate(-391,-370)"
+       id="use3022"
+       xlink:href="#apache" />
+    <use
+       transform="translate(370,255)"
+       id="use3036"
+       xlink:href="#web" />
+    <use
+       transform="translate(395,255)"
+       id="use3047"
+       xlink:href="#web" />
+    <use
+       transform="translate(425,185)"
+       id="use3049"
+       xlink:href="#web" />
+    <text
+       x="360"
+       y="340"
+       id="text3051"
+       style="font-size:15px;text-anchor:middle;font-family:sans-serif">Web host</text>
+    <text
+       x="450"
+       y="340"
+       id="text3053"
+       style="font-size:15px;text-anchor:middle;font-family:sans-serif">Login</text>
+    <text
+       x="405"
+       y="410"
+       id="text3055"
+       style="font-size:15px;text-anchor:middle;font-family:sans-serif">Tool hosts</text>
+  </g>
+  <g
+     transform="translate(0,-400)"
+     id="ToolserverDB">
+    <use
+       transform="translate(-490,215)"
+       id="use3024"
+       xlink:href="#db-slave" />
+    <use
+       transform="translate(-465,215)"
+       id="use3032"
+       xlink:href="#db-slave" />
+    <use
+       transform="translate(-440,215)"
+       id="use3034"
+       xlink:href="#db-slave" />
+  </g>
+  <g
+     transform="translate(125,110)"
+     id="Search">
+    <path
+       d="M 1085,290 C 1085,372.8427 1017.8427,439.99998 934.99998,439.99998 C 852.15728,439.99998 785,372.8427 785,290 C 785,207.1573 852.15728,140.00002 934.99998,140.00002 C 1017.8427,140.00002 1085,207.1573 1085,290 z"
+       id="path4147"
+       style="opacity:0.2;fill:#000000" />
+    <text
+       x="935"
+       y="190"
+       id="text4194"
+       style="font-size:30px;font-weight:bold;text-anchor:middle;font-family:sans-serif">Search</text>
+    <g
+       transform="translate(-54.333984,70)"
+       id="g3098">
+      <path
+         d="M 1010,220 C 1010,264.18279 974.18281,300 930,300 C 885.81722,300 850,264.18279 850,220 C 850,175.81722 885.81726,139.99999 930.00004,139.99999 C 974.18285,139.99999 1010,175.81722 1010,220 z"
+         id="path4029"
+         style="opacity:0.15;fill:#000000" />
+      <text
+         x="930"
+         y="180"
+         id="text4104"
+         style="font-size:18px;text-anchor:middle;font-family:sans-serif">search1</text>
+      <text
+         x="970"
+         y="260"
+         id="text4098"
+         style="font-size:15px;text-anchor:middle;font-family:sans-serif">ns≠0</text>
+      <use
+         transform="translate(-40,85)"
+         id="use3993"
+         xlink:href="#search" />
+      <use
+         transform="translate(-15,85)"
+         id="use3995"
+         xlink:href="#search" />
+      <use
+         transform="translate(10,85)"
+         id="use3997"
+         xlink:href="#search" />
+      <use
+         transform="translate(35,85)"
+         id="use3999"
+         xlink:href="#search" />
+      <use
+         transform="translate(-40,115)"
+         id="use4001"
+         xlink:href="#search" />
+      <use
+         transform="translate(-15,115)"
+         id="use4003"
+         xlink:href="#search" />
+      <use
+         transform="translate(10,115)"
+         id="use4005"
+         xlink:href="#search" />
+      <use
+         transform="translate(55,115)"
+         id="use4007"
+         xlink:href="#search" />
+    </g>
+    <g
+       transform="translate(120,-100)"
+       id="g3111">
+      <path
+         d="M 950,360 C 950,390.37566 925.37568,415 895.00001,415 C 864.62437,415 840,390.37566 840,360 C 840,329.62433 864.62437,304.99999 895.00001,304.99999 C 925.37568,304.99999 950,329.62433 950,360 z"
+         id="path4031"
+         style="opacity:0.15;fill:#000000" />
+      <path
+         d="M 950,415 C 950,445.37565 925.37568,470 895,470 C 864.62433,470 840,445.37565 840,415 C 840,384.62434 864.62433,359.99999 895,359.99999 C 925.37568,359.99999 950,384.62434 950,415 z"
+         id="path3096"
+         style="opacity:0.15;fill:#000000" />
+      <text
+         x="895"
+         y="355"
+         id="text4108"
+         style="font-size:15px;text-anchor:middle;font-family:sans-serif">search2</text>
+      <text
+         x="895"
+         y="455"
+         id="text4106"
+         style="font-size:15px;text-anchor:middle;font-family:sans-serif">search3</text>
+      <text
+         x="895"
+         y="405"
+         id="text4102"
+         style="font-size:15px;text-anchor:middle;font-family:sans-serif">ns≠0</text>
+      <use
+         transform="translate(-20,210)"
+         id="use4009"
+         xlink:href="#search" />
+      <use
+         transform="translate(-20,310)"
+         id="use4013"
+         xlink:href="#search" />
+      <use
+         transform="translate(-20,260)"
+         id="use4015"
+         xlink:href="#search" />
+    </g>
+    <use
+       transform="translate(20.625,280)"
+       id="use4025"
+       xlink:href="#search-idx" />
+    <path
+       d="M 965,380 L 980,365"
+       id="path4092"
+       style="fill:none;stroke:#000000;stroke-width:2;marker-end:url(#Arrow2Mend)" />
+    <path
+       d="M 930,380 L 915,365"
+       id="path4094"
+       style="fill:none;stroke:#000000;stroke-width:2;marker-end:url(#Arrow2Mend)" />
+    <use
+       transform="translate(45.625,280)"
+       id="use4023"
+       xlink:href="#search-idx" />
+    <text
+       x="948.125"
+       y="425"
+       id="text4086"
+       style="font-size:15px;text-anchor:middle;font-family:sans-serif">Indexer</text>
+  </g>
+  <g
+     transform="translate(-40,20)"
+     id="FileServers">
+    <path
+       d="M 1660,1430 C 1660,1479.7056 1619.7056,1520 1570,1520 C 1520.2944,1520 1480,1479.7056 1480,1430 C 1480,1380.2944 1520.2944,1340 1570,1340 C 1619.7056,1340 1660,1380.2944 1660,1430 L 1660,1430 z"
+       id="path3708"
+       style="opacity:0.2;fill:#000000" />
+    <use
+       id="use3704"
+       xlink:href="#fs" />
+    <use
+       transform="translate(50,0)"
+       id="use3080"
+       xlink:href="#fs" />
+    <use
+       transform="translate(100,0)"
+       id="use3706"
+       xlink:href="#fs" />
+    <text
+       x="1570"
+       y="1375"
+       id="text3710"
+       style="font-size:30px;font-weight:bold;text-anchor:middle;font-family:sans-serif">
+      <tspan
+         x="1570"
+         y="1375"
+         id="tspan3722">File</tspan>
+      <tspan
+         x="1570"
+         y="1405"
+         id="tspan3724">servers</tspan>
+    </text>
+    <text
+       x="1570"
+       y="1475"
+       id="text3714"
+       style="font-size:15px;text-anchor:middle;font-family:sans-serif">
+      <tspan
+         x="1570"
+         y="1475"
+         id="tspan3716">3 mass storage</tspan>
+      <tspan
+         x="1570"
+         y="1493.75"
+         id="tspan3718">servers</tspan>
+    </text>
+  </g>
+  <g
+     transform="translate(0,20)"
+     id="Scalers">
+    <path
+       d="M 1900,1430 C 1900,1479.7056 1859.7056,1520 1810,1520 C 1760.2944,1520 1720,1479.7056 1720,1430 C 1720,1380.2944 1760.2944,1340 1810,1340 C 1859.7056,1340 1900,1380.2944 1900,1430 z"
+       id="path3757"
+       style="opacity:0.2;fill:#000000" />
+    <use
+       id="use3740"
+       xlink:href="#scaler" />
+    <use
+       transform="translate(30,0)"
+       id="use3084"
+       xlink:href="#scaler" />
+    <use
+       transform="translate(60,0)"
+       id="use3743"
+       xlink:href="#scaler" />
+    <use
+       transform="translate(0,30)"
+       id="use3755"
+       xlink:href="#scaler" />
+    <use
+       transform="translate(30,30)"
+       id="use3749"
+       xlink:href="#scaler" />
+    <use
+       transform="translate(60,30)"
+       id="use3751"
+       xlink:href="#scaler" />
+    <text
+       x="1810"
+       y="1385"
+       id="text3759"
+       style="font-size:30px;font-weight:bold;text-anchor:middle;font-family:sans-serif">
+      <tspan
+         x="1810"
+         y="1385"
+         id="tspan3761">Image</tspan>
+      <tspan
+         x="1810"
+         y="1415"
+         id="tspan3763">scalers</tspan>
+    </text>
+    <text
+       x="1810"
+       y="1505"
+       id="text3766"
+       style="font-size:15px;text-anchor:middle;font-family:sans-serif">6 scalers</text>
+  </g>
+  <g
+     id="MiscCore">
+    <use
+       transform="translate(-345,-285)"
+       id="use3808"
+       xlink:href="#apache" />
+    <use
+       transform="translate(-345,-185)"
+       id="use3810"
+       xlink:href="#apache" />
+    <use
+       transform="translate(-345,-85)"
+       id="use3812"
+       xlink:href="#apache" />
+    <text
+       x="405"
+       y="630"
+       id="text3305"
+       style="font-size:18px;text-anchor:middle;font-family:sans-serif">WAP</text>
+    <text
+       x="405"
+       y="530"
+       id="text3325"
+       style="font-size:18px;text-anchor:middle;font-family:sans-serif">SSL</text>
+    <text
+       x="405"
+       y="430"
+       id="text3301"
+       style="font-size:18px;text-anchor:middle;font-family:sans-serif">Apple Search</text>
+    <use
+       transform="translate(-1115,2.5)"
+       id="use3834"
+       xlink:href="#fs" />
+    <use
+       transform="translate(-345,855)"
+       id="use3832"
+       xlink:href="#apache" />
+  </g>
+  <g
+     id="MiscWeb">
+    <text
+       x="160"
+       y="1700"
+       id="text3309"
+       style="font-size:18px;text-anchor:middle;font-family:sans-serif">donate</text>
+    <text
+       x="160"
+       y="1720"
+       id="text3313"
+       style="font-size:18px;text-anchor:middle;font-family:sans-serif">civicrm</text>
+    <text
+       x="160"
+       y="1940"
+       id="text3321"
+       style="font-size:18px;text-anchor:middle;font-family:sans-serif">Blogs</text>
+    <text
+       x="340"
+       y="1700"
+       id="text3333"
+       style="font-size:18px;text-anchor:middle;font-family:sans-serif">Nagios</text>
+    <text
+       x="160"
+       y="1820"
+       id="text3337"
+       style="font-size:18px;text-anchor:middle;font-family:sans-serif">planet</text>
+    <text
+       x="160"
+       y="1960"
+       id="text3317"
+       style="font-size:18px;text-anchor:middle;font-family:sans-serif">Bugzilla</text>
+    <text
+       x="340"
+       y="1820"
+       id="text3359"
+       style="font-size:18px;text-anchor:middle;font-family:sans-serif">Subversion</text>
+    <text
+       x="340"
+       y="1940"
+       id="text3355"
+       style="font-size:18px;text-anchor:middle;font-family:sans-serif">Ganglia</text>
+    <text
+       x="585"
+       y="1940"
+       id="text3347"
+       style="font-size:18px;text-anchor:middle;font-family:sans-serif">IRC</text>
+    <use
+       transform="translate(-590,985)"
+       id="use3814"
+       xlink:href="#apache" />
+    <use
+       transform="translate(-590,1225)"
+       id="use3818"
+       xlink:href="#apache" />
+    <use
+       transform="translate(-590,1105)"
+       id="use3820"
+       xlink:href="#apache" />
+    <use
+       transform="translate(315,1660)"
+       id="use3822"
+       xlink:href="#web" />
+    <use
+       transform="translate(315,1540)"
+       id="use3008"
+       xlink:href="#web" />
+    <use
+       transform="translate(315,1780)"
+       id="use3828"
+       xlink:href="#web" />
+    <use
+       transform="translate(560,1780)"
+       id="use3830"
+       xlink:href="#mail" />
+    <g
+       transform="translate(0,-20)"
+       id="Mail">
+      <path
+         d="M 685,1750 C 685,1805.2285 640.22847,1850 585,1850 C 529.77153,1850 485,1805.2285 485,1750 C 485,1694.7715 529.77153,1650 585,1650 C 640.22847,1650 685,1694.7715 685,1750 z"
+         id="path3847"
+         style="opacity:0.2;fill:#000000" />
+      <text
+         x="585"
+         y="1700"
+         id="text3849"
+         style="font-size:30px;font-weight:bold;text-anchor:middle;font-family:sans-serif">Mail</text>
+      <use
+         transform="translate(500,1630)"
+         id="use3851"
+         xlink:href="#mail" />
+      <use
+         transform="translate(560,1630)"
+         id="use3853"
+         xlink:href="#mail" />
+      <use
+         transform="translate(620,1630)"
+         id="use3855"
+         xlink:href="#mail" />
+      <text
+         x="585"
+         y="1790"
+         id="text3857"
+         style="font-size:15px;text-anchor:middle;font-family:sans-serif">
+        <tspan
+           x="585"
+           id="tspan3901">OTRS</tspan>
+        <tspan
+           x="585"
+           y="1805"
+           id="tspan3903">tickets</tspan>
+      </text>
+      <text
+         x="525"
+         y="1790"
+         id="text3859"
+         style="font-size:15px;text-anchor:middle;font-family:sans-serif">IMAP</text>
+      <text
+         x="645"
+         y="1790"
+         id="text3861"
+         style="font-size:15px;text-anchor:middle;font-family:sans-serif">Lists</text>
+    </g>
+  </g>
+  <g
+     id="MiscServices">
+    <text
+       x="1630"
+       y="1880"
+       id="text3387"
+       style="font-size:18px;text-anchor:middle;font-family:sans-serif">Scratch hosts</text>
+    <text
+       x="1410"
+       y="1880"
+       id="text3383"
+       style="font-size:18px;text-anchor:middle;font-family:sans-serif">Batch jobs</text>
+    <text
+       x="1410"
+       y="1760"
+       id="text3375"
+       style="font-size:18px;text-anchor:middle;font-family:sans-serif">Logging</text>
+    <text
+       x="1190"
+       y="1760"
+       id="text3367"
+       style="font-size:18px;text-anchor:middle;font-family:sans-serif">LDAP/NIS</text>
+    <text
+       x="1190"
+       y="1880"
+       id="text3391"
+       style="font-size:18px;text-anchor:middle;font-family:sans-serif">Network tools</text>
+    <text
+       x="970"
+       y="1760"
+       id="text3351"
+       style="font-size:18px;text-anchor:middle;font-family:sans-serif">DNS</text>
+    <text
+       x="970"
+       y="1880"
+       id="text3371"
+       style="font-size:18px;text-anchor:middle;font-family:sans-serif">NTP, SSH</text>
+    <text
+       x="1630"
+       y="1760"
+       id="text3937"
+       style="font-size:18px;text-anchor:middle;font-family:sans-serif">APT repositories</text>
+    <use
+       transform="translate(95,65)"
+       id="use3966"
+       xlink:href="#misc" />
+    <use
+       transform="translate(120,65)"
+       id="use3971"
+       xlink:href="#misc" />
+    <use
+       transform="translate(145,65)"
+       id="use3973"
+       xlink:href="#misc" />
+    <use
+       transform="translate(120,185)"
+       id="use3975"
+       xlink:href="#misc" />
+    <use
+       transform="translate(340,185)"
+       id="use3977"
+       xlink:href="#misc" />
+    <use
+       transform="translate(325,65)"
+       id="use3979"
+       xlink:href="#misc" />
+    <use
+       transform="translate(350,65)"
+       id="use3981"
+       xlink:href="#misc" />
+    <use
+       transform="translate(560,65)"
+       id="use3983"
+       xlink:href="#misc" />
+    <use
+       transform="translate(545,185)"
+       id="use3985"
+       xlink:href="#misc" />
+    <use
+       transform="translate(570,185)"
+       id="use3987"
+       xlink:href="#misc" />
+    <use
+       transform="translate(780,65)"
+       id="use3989"
+       xlink:href="#misc" />
+    <use
+       transform="translate(755,185)"
+       id="use3991"
+       xlink:href="#misc" />
+    <use
+       transform="translate(780,185)"
+       id="use4004"
+       xlink:href="#misc" />
+    <use
+       transform="translate(805,185)"
+       id="use4006"
+       xlink:href="#misc" />
+  </g>
+  <path
+     d="M 760,940 L 890,940"
+     id="path3811"
+     style="fill:none;stroke:#0000ff;stroke-width:6;marker-start:url(#ArrowBlueStart);marker-end:url(#ArrowBlueEnd)" />
+  <path
+     d="M 750,1120 L 880,1120"
+     id="path3813"
+     style="fill:none;stroke:#0000ff;stroke-width:6;marker-start:url(#ArrowBlueStart)" />
+  <text
+     x="820"
+     y="920"
+     id="text7231"
+     style="font-size:24px;text-anchor:middle;font-family:sans-serif">HTML</text>
+  <text
+     x="820"
+     y="1160"
+     id="text7235"
+     style="font-size:24px;text-anchor:middle;font-family:sans-serif">Media files</text>
+  <path
+     d="M 1630,1455 L 1710,1455"
+     id="path7810"
+     style="fill:none;stroke:#ff0000;stroke-width:6;marker-end:url(#ArrowRed)" />
+  <path
+     d="M 1460,1380 L 1400,1310"
+     id="path7812"
+     style="fill:none;stroke:#ff0000;stroke-width:6;marker-end:url(#ArrowRed)" />
+  <path
+     d="M 1730,1390 L 1480,1220"
+     id="path7814"
+     style="fill:none;stroke:#ff0000;stroke-width:6;marker-end:url(#ArrowRed)" />
+  <path
+     d="M 1440,820 L 1520,730"
+     id="path9003"
+     style="fill:none;stroke:#00cc00;stroke-width:6;marker-start:url(#ArrowGreenStart);marker-end:url(#ArrowGreenEnd)" />
+  <text
+     x="406.5426"
+     y="1658.0886"
+     transform="matrix(0.6659357,-0.7460091,0.7460091,0.6659357,0,0)"
+     id="text9005"
+     style="font-size:24px;text-anchor:middle;font-family:sans-serif">Wikitext</text>
+  <text
+     x="1670"
+     y="1490"
+     id="text9007"
+     style="font-size:24px;text-anchor:middle;font-family:sans-serif">
+    <tspan
+       x="1670"
+       y="1490"
+       id="tspan9009">Image</tspan>
+    <tspan
+       x="1670"
+       y="1520"
+       id="tspan9011">files</tspan>
+  </text>
+  <text
+     x="1959.564"
+     y="-104.5565"
+     transform="matrix(0.6782738,0.7348093,-0.7348093,0.6782738,0,0)"
+     id="text9013"
+     style="font-size:24px;text-anchor:middle;font-family:sans-serif">
+    <tspan
+       x="1959.564"
+       y="-104.5565"
+       id="tspan9015">Media</tspan>
+    <tspan
+       x="1959.564"
+       y="-74.556503"
+       id="tspan9017">files</tspan>
+  </text>
+  <text
+     x="2113.3071"
+     y="182.00769"
+     transform="matrix(0.8331761,0.5530078,-0.5530078,0.8331761,0,0)"
+     id="text9019"
+     style="font-size:24px;text-anchor:middle;font-family:sans-serif">Image files</text>
+  <path
+     d="M 1650,790 C 1620,1020 1585.6787,1164.7406 1550,1350"
+     id="path9025"
+     style="fill:none;stroke:#008080;stroke-width:6;marker-end:url(#ArrowTeal)" />
+  <text
+     x="-768.10693"
+     y="1790.3021"
+     transform="matrix(0.1543204,-0.9880209,0.9880209,0.1543204,0,0)"
+     id="text9031"
+     style="font-size:24px;text-anchor:middle;font-family:sans-serif">Database dumps</text>
+  <text
+     x="405"
+     y="1570"
+     id="text3363"
+     style="font-size:18px;text-anchor:middle;font-family:sans-serif">Static dumps</text>
+  <text
+     x="405"
+     y="1480"
+     id="text3379"
+     style="font-size:18px;text-anchor:middle;font-family:sans-serif">Media Upload</text>
+  <path
+     d="M 435,1437.5 L 1420,1450"
+     id="path3837"
+     style="fill:none;stroke:#ff0000;stroke-width:6;marker-end:url(#ArrowRed)" />
+  <path
+     d="M 1420,1465 L 435,1525"
+     id="path3839"
+     style="fill:none;stroke:#008080;stroke-width:6;marker-end:url(#ArrowTeal)" />
+  <text
+     x="850"
+     y="1425"
+     id="text3841"
+     style="font-size:24px;text-anchor:start;font-family:sans-serif">Media files</text>
+  <text
+     x="850"
+     y="1535"
+     id="text3843"
+     style="font-size:24px;text-anchor:start;font-family:sans-serif">Database dumps</text>
+  <path
+     d="M 1000,140 L 1470,430"
+     id="path4032"
+     style="fill:none;stroke:#00cc00;stroke-width:6;marker-start:url(#ArrowGreenStart)" />
+  <path
+     d="M 1105,555 L 1150,725"
+     id="path4034"
+     style="fill:none;stroke:#00dddd;stroke-width:6;marker-start:url(#ArrowCyanStart);marker-end:url(#ArrowCyanEnd)" />
+  <text
+     x="908.20996"
+     y="-945.17096"
+     transform="matrix(0.2576251,0.9662449,-0.9662449,0.2576251,0,0)"
+     id="text4047"
+     style="font-size:23.99998283px;text-anchor:middle;font-family:sans-serif">Search tasks</text>
+  <text
+     x="913.16693"
+     y="263.46808"
+     transform="matrix(0.8587364,0.5124176,-0.5124176,0.8587364,0,0)"
+     id="text3014"
+     style="font-size:24px;text-anchor:middle;font-family:sans-serif">HTML + Media files</text>
+  <path
+     d="M 435,600 L 925,865"
+     id="path3010"
+     style="fill:none;stroke:#0000ff;stroke-width:6;marker-start:url(#ArrowBlueStart);marker-end:url(#ArrowBlueEnd)" />
+  <path
+     d="M 435,495 L 935,850"
+     id="path3012"
+     style="fill:none;stroke:#0000ff;stroke-width:6;marker-start:url(#ArrowBlueStart);marker-end:url(#ArrowBlueEnd)" />
+  <path
+     d="M 440,390 L 900,400"
+     id="path3018"
+     style="fill:none;stroke:#00dddd;stroke-width:6;marker-start:url(#ArrowCyanStart);marker-end:url(#ArrowCyanEnd)" />
+  <text
+     x="665.10895"
+     y="361.56607"
+     transform="matrix(0.9997357,2.2991023e-2,-2.2991023e-2,0.9997357,0,0)"
+     id="text3020"
+     style="font-size:23.99999428px;text-anchor:middle;font-family:sans-serif">Search tasks</text>
+  <text
+     x="950"
+     y="180"
+     id="text3028"
+     style="font-size:18px;text-anchor:middle;font-family:sans-serif">Toolserver DBs</text>
+  <path
+     d="M 1220,440 L 1440,500"
+     id="path3030"
+     style="fill:none;stroke:#00cc00;stroke-width:6;marker-start:url(#ArrowGreenStart)" />
+  <text
+     x="1410.4193"
+     y="93.018219"
+     transform="matrix(0.9654669,0.2605258,-0.2605258,0.9654669,0,0)"
+     id="text4045"
+     style="font-size:24px;text-anchor:middle;font-family:sans-serif">Index updates</text>
+  <path
+     d="M 900,140 L 510,220"
+     id="path3074"
+     style="fill:none;stroke:#00cc00;stroke-width:6;marker-start:url(#ArrowGreenStart)" />
+  <text
+     x="1098.2255"
+     y="-419.9118"
+     transform="matrix(0.8507295,0.5256037,-0.5256037,0.8507295,0,0)"
+     id="text3076"
+     style="font-size:24px;text-anchor:start;font-family:sans-serif">DB replication</text>
+  <text
+     x="585.41235"
+     y="304.82346"
+     transform="matrix(0.9792943,-0.2024417,0.2024417,0.9792943,0,0)"
+     id="text3078"
+     style="font-size:24px;text-anchor:start;font-family:sans-serif">SQL queries</text>
+  <g
+     id="legend">
+    <rect
+       width="1920"
+       height="120"
+       x="40"
+       y="1990"
+       id="rect3037"
+       style="fill:none;stroke:#000000;stroke-width:2" />
+    <use
+       transform="translate(-2030,1560)"
+       id="use3039"
+       xlink:href="#db-master" />
+    <use
+       transform="translate(-1170,1720)"
+       id="use3042"
+       xlink:href="#db-slave" />
+    <use
+       transform="translate(-360,1370)"
+       id="use3044"
+       xlink:href="#apache" />
+    <use
+       transform="translate(490,1420)"
+       id="use3046"
+       xlink:href="#text-squid" />
+    <use
+       transform="translate(640,1420)"
+       id="use3048"
+       xlink:href="#upload-squid" />
+    <use
+       transform="translate(780,1420)"
+       id="use3050"
+       xlink:href="#lb-squid" />
+    <use
+       transform="translate(100,1370)"
+       id="use3052"
+       xlink:href="#lb-apache" />
+    <use
+       transform="translate(75,1925)"
+       id="use3054"
+       xlink:href="#search" />
+    <use
+       transform="translate(225,1925)"
+       id="use3056"
+       xlink:href="#search-idx" />
+    <use
+       transform="translate(-230,605)"
+       id="use3058"
+       xlink:href="#fs" />
+    <use
+       transform="translate(-340,600)"
+       id="use3060"
+       xlink:href="#scaler" />
+    <use
+       transform="translate(1565,1925)"
+       id="use3062"
+       xlink:href="#web" />
+    <use
+       transform="translate(1715,1925)"
+       id="use3064"
+       xlink:href="#mail" />
+    <use
+       transform="translate(1040,390)"
+       id="use3066"
+       xlink:href="#misc" />
+    <text
+       x="90"
+       y="2090"
+       id="text3098"
+       style="font-size:15px;text-anchor:middle;font-family:sans-serif">Master DB</text>
+    <text
+       x="240"
+       y="2090"
+       id="text3102"
+       style="font-size:15px;text-anchor:middle;font-family:sans-serif">Slave DB</text>
+    <text
+       x="390"
+       y="2090"
+       id="text3733"
+       style="font-size:15px;text-anchor:middle;font-family:sans-serif">Apache</text>
+    <text
+       x="540"
+       y="2090"
+       id="text3735"
+       style="font-size:15px;text-anchor:middle;font-family:sans-serif">Text squid</text>
+    <text
+       x="690"
+       y="2090"
+       id="text3737"
+       style="font-size:15px;text-anchor:middle;font-family:sans-serif">Upload squid</text>
+    <text
+       x="840"
+       y="2090"
+       id="text3739"
+       style="font-size:15px;text-anchor:middle;font-family:sans-serif">Load Balancer</text>
+    <text
+       x="990"
+       y="2090"
+       id="text3741"
+       style="font-size:15px;text-anchor:middle;font-family:sans-serif">Search host</text>
+    <text
+       x="1140"
+       y="2090"
+       id="text3743"
+       style="font-size:15px;text-anchor:middle;font-family:sans-serif">Search indexer</text>
+    <text
+       x="1290"
+       y="2090"
+       id="text3745"
+       style="font-size:15px;text-anchor:middle;font-family:sans-serif">File server</text>
+    <text
+       x="1440"
+       y="2090"
+       id="text3747"
+       style="font-size:15px;text-anchor:middle;font-family:sans-serif">Image scaler</text>
+    <text
+       x="1590"
+       y="2090"
+       id="text3749"
+       style="font-size:15px;text-anchor:middle;font-family:sans-serif">Web service</text>
+    <text
+       x="1740"
+       y="2090"
+       id="text3751"
+       style="font-size:15px;text-anchor:middle;font-family:sans-serif">Mail/IRC service</text>
+    <text
+       x="1890"
+       y="2090"
+       id="text3754"
+       style="font-size:15px;text-anchor:middle;font-family:sans-serif">Network sevice</text>
+  </g>
+</svg>
