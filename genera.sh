@@ -23,7 +23,7 @@ Genera(){
 }
 
 GeneraPresentacion(){
-  hovercraft $1.rst gh-pages
+  hovercraft $1.rst docs
 }
 
 #nombreArchivo=Lista
