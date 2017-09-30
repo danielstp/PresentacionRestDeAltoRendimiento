@@ -59,6 +59,7 @@ HipHop
 ########
 
 - `HipHop for PHP <https://en.wikipedia.org/wiki/HipHop_for_PHP>`_
+  (HPHPc) es un transcompilador PHP. (descontinuado)
 
 ----
 
@@ -67,6 +68,8 @@ HHVM
 
 
 - `Máquina Virtual HipHop HHVM <https://en.wikipedia.org/wiki/HipHop_Virtual_Machine>`_
+  es una máquina virtual de código abierto basado en compilador Just-in-Time
+  (JIT), el cual sirve como un motor de ejecución para los lenguajes PHP y Hack.
 
 ----
 
@@ -165,7 +168,7 @@ Wikipedia
 +--------------------------+----------------------------------------------------+
 |fecha última versión      | 15 de Diciembre del 2014                           |
 +--------------------------+----------------------------------------------------+
-|última versión Desarrollo | C++17  se espera para julio                        |
+|última versión Desarrollo | C++17 se aprobo y se trabaja en el C++20           |
 +--------------------------+----------------------------------------------------+
 |tipo dato                 | fuerte, estático, nominativo                       |
 +--------------------------+----------------------------------------------------+
@@ -207,7 +210,7 @@ C++
 
 + Veloz
 
-- Complicado
+- **Complicado**
 
 ----
 
@@ -222,9 +225,9 @@ Python
 Java
 ####
 
-+ No tan veloz
++ No tan veloz, mucho mas rapido que python
 
-- no tan complicado como C++
+- *no tan complicado como C++*
 
 ----
 
