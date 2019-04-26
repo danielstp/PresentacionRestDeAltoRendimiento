@@ -332,7 +332,7 @@ El problema no solo es mio, entonces ya debe haber alguien con una soluci贸n
 
 - Buscar Soluci贸n en Software Libre
 - Escoger una
-- Probar si cumple con mis: Requerimientos y/o Casos de Aceptaci贸n.
+- Probar si cumple con mis: Requerimientos y/o Necesidades.
 - Si no cumple, entonces: probar otra
 
 ----
@@ -487,7 +487,7 @@ web WikiLeaks.
 :data-x: r+3600
 :data-z: r-2600
 :data-y: r+1750
-
+:data-rotate: 0
 
 Fravia+
 #######
@@ -565,16 +565,16 @@ Ola Bini
    :width: 50%
 
 
-Ola Bini, (Gotemburgo, 1982)1鈥 es un desarrollador de software, programador, y
+Ola Bini, (Gotemburgo, 1982) es un desarrollador de software, programador, y
 activista de Internet sueco, trabaja para el Centro de Autonom铆a Digital en
 problemas de privacidad, seguridad y criptograf铆a. Radicado en Ecuador desde
-2013� En abril de 2019 fue detenido por estar presuntamente vinculado a Julian
+2013. En abril de 2019 fue detenido por estar presuntamente vinculado a Julian
 Assange y Wikileaks.
 
 ----
 
 :data-x: r+1600
-:data-z: 91600
+:data-z: r+1600
 :data-rotate: 360
 
 
@@ -589,7 +589,7 @@ Francis George Hotz, (n. 2 de octubre de 1989), alias geohot, es un hacker estad
 
 ----
 
-:data-x: 9400
+:data-x: r9400
 :data-y: r+1200
 :data-z: r+6400
 
@@ -612,7 +612,6 @@ Fue dise帽ador jefe del proyecto inicial de Open Library.
 
 ----
 
-:data-x: r+1600
 
 No hay justicia al cumplir leyes injustas. Es hora de salir a la luz y,
 siguiendo la tradici贸n de la desobediencia civil, oponernos a este robo
@@ -622,16 +621,12 @@ privado de la cultura p煤blica.
 
 ----
 
-:data-x: r+1600
-
 La informaci贸n es poder. Pero como todo poder, hay quienes quieren
 mantenerlo para s铆 mismos.
 
     *Aaron Swartz*
 
 ----
-
-:data-x: r+1600
 
 Alexandra Elbakyan
 ##################
@@ -647,9 +642,9 @@ cient铆ficos recientes.
 
 ----
 
-:data-x: r-750
-:data-y: r+750
-:data-z: r+1000
+:data-x: r-950
+:data-y: r+950
+:data-z: r+1300
 
 .. code:: c++
 

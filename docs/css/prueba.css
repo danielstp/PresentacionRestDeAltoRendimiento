@@ -1,7 +1,7 @@
 @charset "UTF8";
 
 body {
-    background-image: url("../Imágenes/Flisol.svg");
+    background-image: url("./Imágenes/Flisol.svg");
     background-size: 100% 100%;
     font-size: 160%;
     text-align: center;
