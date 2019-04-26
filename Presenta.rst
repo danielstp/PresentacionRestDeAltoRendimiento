@@ -341,8 +341,8 @@ Heurística en Software Libre II
 ###############################
 
 - Probé muchas y ninguna me convence
-  - Escoger la mas cercana y adaptarla
-  - Crear un proyecto Nuevo
+- Escoger la mas cercana y adaptarla
+- Crear un proyecto Nuevo
 
 ----
 
