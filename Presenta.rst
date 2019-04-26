@@ -4,7 +4,12 @@
 :keywords: presentación, restructuredtext, impress.js, REST, C++
 :data-transition-duration: 1500
 :auto-console: true
-:css: prueba.css
+:skip-help: true
+:css: css/presenta.css
+
+.. title: Servicios Rest de Alto Rendimiento con C++
+
+----
 
 ##########################################
 Servicios Rest de Alto Rendimiento con C++
@@ -21,14 +26,15 @@ Contexto
 Tenemos datos que publicar
 ##########################
 
-hay mas de 1000 conexiones simultaneas
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+hay más de 1.000 usuarios
+^^^^^^^^^^^^^^^^^^^^^^^^^
 :id: introducción
 
 - UMSS, UMSA, ..., etc
 - INE
 - OEP
 - Los Tiempos, La Razón, ..., etc
+- Viva, Tigo, Entel
 
 ----
 
@@ -42,6 +48,9 @@ Identificar el Problema
 - *Base de Datos* (MariaDB, PostgreSQL)
 - *Servidor HTTP* (Apache, nginx, Cherokee)
 - *Politicas de Seguridad*
+
+----
+
 - **Ancho de Banda**
 
 ----
@@ -51,9 +60,9 @@ Soluciones
 
 ----
 
-:data-x: r+1600
-:data-z: r+1600
-
+:data-x: r1250
+:data-z: r-1000
+:data-rotate: 90
 
 HipHop
 ########
@@ -78,9 +87,9 @@ HHVM
 
 ----
 
-:data-x: r+1600
-:data-y: r+1600
-:data-rotate: 360
+:data-x: r+3600
+:data-y: r+3600
+:data-rotate: 180
 
 Wikipedia
 #########
@@ -89,6 +98,9 @@ Wikipedia
 - Actualmente recibe entre **25.000 y 60.000** consultas por segundo
 
 ----
+
+:data-x: r1250
+:data-z: r-1000
 
 .. image:: Imágenes/Wikimedia-servers-2004-02-19-800wide.png
    :width: 100%
@@ -145,9 +157,9 @@ Wikipedia
 
 ----
 
-:data-y: 1600
-:data-z: 1600
-:data-rotate: 360
+:data-y: 4600
+:data-z: 4600
+:data-rotate: 90
 
 +--------------------------+----------------------------------------------------+
 |                          | `C++ <https://es.wikipedia.org/wiki/C++>`_         |
@@ -156,21 +168,21 @@ Wikipedia
 +--------------------------+----------------------------------------------------+
 |extensiones comunes       | ``.h .hh .hpp .hxx .h++ .cc .cpp .cxx .c++``       |
 +--------------------------+----------------------------------------------------+
-|paradigma                 | **multiparadigma, orientado a objetos, imperativo, |
-|                          | programación genérica**.                           |
+|paradigma                 | **multiparadigma, orientado a objetos,             |
+|                          | programación genérica, procedural**.               |
 +--------------------------+----------------------------------------------------+
-|año                       | 1983                                               |
+|año                       | 1985 ( 34 años )                                   |
 +--------------------------+----------------------------------------------------+
 |diseñador                 | **Bjarne Stroustrup**, Bell Labs                   |
 |desarrollador             |                                                    |
 +--------------------------+----------------------------------------------------+
-|última versión            | ISO/IEC 14882:2014                                 |
+|última versión            | ISO/IEC 14882:2017                                 |
 +--------------------------+----------------------------------------------------+
-|fecha última versión      | 15 de Diciembre del 2014                           |
+|fecha última versión      | 1 de Diciembre del 2017                            |
 +--------------------------+----------------------------------------------------+
-|última versión Desarrollo | C++17 se aprobo y se trabaja en el C++20           |
+|última versión Desarrollo | Se trabaja en el C++20                             |
 +--------------------------+----------------------------------------------------+
-|tipo dato                 | fuerte, estático, nominativo                       |
+|tipo dato                 | estático, nominativo, parcialmente inferido        |
 +--------------------------+----------------------------------------------------+
 
 ----
@@ -184,21 +196,22 @@ Wikipedia
 +-------------------------+----------------------------------------------------+
 |dialectos                | ISO/IEC 14882|ISO/IEC C++ 1998, ISO/IEC            |
 |                         | 14882|ISO/IEC C++ 2003, ISO/IEC 14882|ISO/IEC C++  |
-|                         | 2011                                               |
+|                         | 2011, 2017, 2020                                   |
 +-------------------------+----------------------------------------------------+
 |influido por             | C, Simula, Ada 83, ALGOL 68, CLU, ML               |
 +-------------------------+----------------------------------------------------+
 |ha influido              | Perl 1987, LPC 1989, Lua 1993, Pike 1994, Ada 95,  |
 |                         | Java 1995, PHP 1995, D 1999, C99, C# 2001, Falcon  |
-|                         | 2003                                               |
+|                         | 2003, **Rust**                                     |
 +-------------------------+----------------------------------------------------+
 |sistema operativo        | Multiplataforma                                    |
 +-------------------------+----------------------------------------------------+
 
 ----
 
-:data-y: r+1600
-:data-x: r+1600
+:data-y: r+4600
+:data-x: r-5600
+:data-z: r-1000
 
 C++ vs Python vs Node.js vs Java
 ################################
@@ -225,7 +238,7 @@ Python
 Java
 ####
 
-+ No tan veloz, mucho mas rapido que python
++ No tan veloz, mucho más rapido que python
 
 - *no tan complicado como C++*
 
@@ -251,14 +264,14 @@ esfuerzo».
 
 ----
 
-«En el artículo de DonaldKnuth "StructuredProgrammingWithGoToStatements"
+«En el artículo de Donald Knuth "Structured Programming With GoTo Statements"
 escribió: "Los programadores pierden enormes cantidades de tiempo pensando o
 preocupándose por la velocidad de las partes no críticas de sus programas, y
 estos intentos de eficiencia realmente tienen un fuerte impacto negativo cuando
-a la depuración y el mantenimiento; deben olvidarse de las pequeñas eficiencias,
-digamos alrededor del 97% del tiempo: la optimización prematura es la raíz de
+a la depuración y el mantenimiento; **deben olvidarse de las pequeñas eficiencias,
+digamos alrededor del 97% del tiempo:** la optimización prematura es la raíz de
 todo mal. Sin embargo, no debemos dejar pasar nuestras oportunidades en ese
-crítico 3% ".»
+**crítico 3%**".»
 
 ----
 
@@ -293,7 +306,7 @@ poder mediante la ruptura en piezas de las concentraciones más grandes, que
 tienen individualmente menos energía. El concepto se refiere a una estrategia
 que rompe las estructuras de poder existentes y evita la vinculación de los
 grupos de poder más pequeños. Podría ser utilizada en todos los ámbitos en
-los que, para obtener un mejor resultado, es en primer lugar necesario o
+los que, para obtener un resultado favorable, es en primer lugar necesario o
 ventajoso romper o dividir lo que se opone a la solución o a un determinado
 problema inicial.
 
@@ -333,9 +346,6 @@ Heurística en Software Libre II
 
 ----
 
-:data-rotate: 0
-
-
 NGREST
 ######
 
@@ -360,6 +370,11 @@ extremadamente rápido y **muy fácil de usar**.
 ----
 
 .. image:: Imágenes/InstalaciónNGRest.png
+   :width: 100%
+
+----
+
+.. image:: Imágenes/InstalaciónNGRestNuevo.png
    :width: 100%
 
 ----
@@ -456,35 +471,22 @@ DBMS soportados:
 :data-x: 0
 :data-z: 11600
 
+Julian Assange
+##############
 
-Tim Berners-Lee
-###############
-
-.. image:: Imágenes/Sir_Tim_Berners-Lee.jpg
+.. image:: Imágenes/Julian_Assange_cropped_(Norway,_March_2010).jpg
    :width: 50%
 
-Sir Timothy "Tim" John Berners-Lee, KBE (Londres, Reino Unido, 8 de junio de
-1955) es un científico de la computación británico, conocido por ser el padre de
-la Web. Estableció la primera comunicación entre un cliente y un servidor usando
-el protocolo HTTP en noviembre de 1989. En octubre de 1994 fundó el Consorcio de
-la World Wide Web (W3C) con sede en el MIT, para supervisar y estandarizar el
-desarrollo de las tecnologías sobre las que se fundamenta la Web y que permiten
-el funcionamiento de Internet.
-
-Ante la necesidad de distribuir e intercambiar información acerca de sus
-investigaciones de una manera más efectiva, Berners-Lee desarrolló las ideas
-fundamentales que estructuran la web. Él y su grupo crearon lo que por sus siglas
-en inglés se denomina Lenguaje HTML (HyperText Markup Language) o lenguaje de
-etiquetas de hipertexto, el protocolo HTTP (HyperText Transfer Protocol) y el
-sistema de localización de objetos en la web URL (Uniform Resource Locator).
-
-Es posible encontrar muchas de las ideas plasmadas por Berners-Lee en el proyecto
-Xanadú (que propuso Ted Nelson) y el memex (de Vannevar Bush).
+Julian Paul Assange (Townsville, Queensland, 3 de julio de 1971), conocido como
+Julian Assange, es un programador, ciberactivista, periodista y activista de
+Internet australiano, conocido por ser el fundador, editor y portavoz del sitio
+web WikiLeaks.
 
 ----
 
-:data-x: r+1600
-:data-z: 1600
+:data-x: r+3600
+:data-z: r-2600
+:data-y: r+1750
 
 
 Fravia+
@@ -498,64 +500,6 @@ su apodo Fravia+, fue un ingeniero inverso de software y «seeker» conocido por
 su archivo web de las técnicas y trabajos sobre **ingeniería inversa**.
 
 ----
-
-:data-x: r+1600
-
-Richard Stallman
-################
-
-.. image:: Imágenes/Richard_Stallman_2016_Talk_in_Madrid_06.jpg
-   :width: 50%
-
-Richard Matthew Stallman (nacido en Manhattan, Nueva York, 16 de marzo de 1953),
-con frecuencia abreviado como «rms»,1 es un programador estadounidense y fundador
-del movimiento por el software libre en el mundo.
-
-Entre sus logros destacados como programador se incluye la realización del editor
-de texto GNU Emacs,2 el compilador GCC,3 y el depurador GDB,4 bajo la rúbrica del
-Proyecto GNU. Sin embargo, es principalmente conocido por el establecimiento de
-un marco de referencia moral, político y legal para el movimiento del software
-libre, como una alternativa al desarrollo y distribución del software no libre o
-propietario. Es también inventor del concepto de copyleft (aunque no del término)
-, un método para licenciar software de tal forma que su uso y modificación
-permanezcan siempre libres y queden en la comunidad de usuarios y desarrolladores.
-
-----
-
-:data-x: r+1600
-
-Linus Torvalds
-##############
-
-.. image:: Imágenes/Linus_Torvalds.jpeg
-   :width: 50%
-
-Linus Benedict Torvalds (28 de diciembre de 1969, Helsinki, Finlandia) es un
-ingeniero de software finlandés estadounidense,1 conocido por iniciar y mantener
-el desarrollo del "kernel" (en español, núcleo) Linux, basándose en el sistema
-operativo libre Minix creado por Andrew S. Tanenbaum y en algunas herramientas,
-varias utilidades y los compiladores desarrollados por el proyecto GNU.
-Actualmente Torvalds es responsable de la coordinación del proyecto. Pertenece a
-la comunidad sueco-parlante de Finlandia.
-
-----
-
-:data-x: r+1600
-
-Con Kolivas
-###########
-
-.. image:: Imágenes/conKolivas.jpg
-   :width: 50%
-
-Es un anestesiologo australiano. Ha trabajado como programador de computadoras en
-el kernel de Linux y en el desarrollo del software criptográfico CGMiner. Sus
-contribuciones de Linux incluyen parches para que el kernel mejore su rendimiento
-de escritorio, particularmente reduciendo el impacto de I/O.
-
-----
-
-:data-x: r+1600
 
 Ian Murdock
 ###########
@@ -577,49 +521,6 @@ Foundation y líder del Proyecto Indiana cuando trabajaba para Sun Microsystems.
 
 ----
 
-:data-x: r+1600
-
-Stefano Zacchiroli
-##################
-
-.. image:: Imágenes/Stefano_zacchiroli_debconf10.1.jpg
-   :width: 50%
-
-Stefano Zacchiroli, (n. 16 de marzo de 1979) fue líder del proyecto Debian,
-sucediendo a Steve McIntyre desde abril de 2010 hasta abril de 2013, cuando le
-sucedió Lucas Nussbaum. Zacchiroli se convirtió en un desarrollador de Debian en
-el año 2001. Después de asistir a LinuxTag en 2004, se convirtió en uno de los
-participantes más activos en la comunidad de Debian, y el propio proyecto.
-
-Zacchiroli obtuvo un doctorado en ciencias de la computación en 2007 en la
-Universidad de Bolonia1 y se trasladó a la Universidad de Paris Diderot por su
-investigación postdoctoral. Él está involucrado en el proyecto MANCOOSI de
-trabajo, sobre la aplicación de métodos formales para la solución de problemas
-de complejidad en la gestión de distribuciones de GNU/Linux.
-
-Desde el punto de vista técnico, Zacchiroli ha participado en Debian
-principalmente en el paquete Objetive Caml y en el equipo de aseguramiento de
-calidad.
-
-----
-
-:data-x: r+1600
-
-Julian Assange
-##############
-
-.. image:: Imágenes/Julian_Assange_cropped_(Norway,_March_2010).jpg
-   :width: 50%
-
-Julian Paul Assange (Townsville, Queensland, 3 de julio de 1971), conocido como
-Julian Assange, es un programador, ciberactivista, periodista y activista de
-Internet australiano, conocido por ser el fundador, editor y portavoz del sitio
-web WikiLeaks.
-
-----
-
-:data-x: r+1600
-
 Edward Snowden
 ##############
 
@@ -638,8 +539,6 @@ masiva PRISM y XKeyscore
 
 ----
 
-:data-x: r+1600
-
 Chelsea Manning
 ###############
 
@@ -656,6 +555,21 @@ de Irak, incluidos numerosos cables diplomáticos de diversas embajadas
 estadounidenses y el video del ejército conocido como Collateral Murder
 («asesinato colateral»).
 
+
+----
+
+Ola Bini
+########
+
+.. image:: Imágenes/Ola_Bini_congreso.jpg
+   :width: 50%
+
+
+Ola Bini, (Gotemburgo, 1982)1� es un desarrollador de software, programador, y
+activista de Internet sueco, trabaja para el Centro de Autonomía Digital en
+problemas de privacidad, seguridad y criptografía. Radicado en Ecuador desde
+2013� En abril de 2019 fue detenido por estar presuntamente vinculado a Julian
+Assange y Wikileaks.
 
 ----
 
@@ -733,6 +647,10 @@ científicos recientes.
 
 ----
 
+:data-x: r-750
+:data-y: r+750
+:data-z: r+1000
+
 .. code:: c++
 
  #include <list>
@@ -753,224 +671,6 @@ científicos recientes.
 
  #include "datatypes.h"
 
-
-----
-
-.. code:: c++
-
- template <typename Item>
- std::ostream& operator<<(std::ostream& out, const std::list<Item>& items) {
-    for (const Item& item : items)
-        out << item << std::endl;
-
-    return out;
- }
-
- namespace ngrest {
- namespace example {
-
-----
-
-.. code:: c++
-
- void example1(Db& db) {
-    ngrest::Table<User> users(db);
-
-    users.create();
-
-    users.deleteAll(); // delete all data from the table
-
-    // exclude "id" from the fields when inserting to perform auto-increment
-    // enabled by default
- //    users.setInsertFieldsInclusion({"id"}, ngrest::FieldsInclusion::Exclude);
-
-    users.insert({0, "John", "john@example.com"}); // id is ignored upon insertion
-
-    int id = users.lastInsertId();
- //    LogInfo() << "Last insert id: " << id;
-
-    User user = {0, "James", "james@example.com"};
-    users.insert(user);
-    // users.insert(user, {"id", "registered"}, ngrest::FieldsInclusion::Exclude); // for example
-
-----
-
-.. code:: c++
-
-    user.name = "Jane";
-    user.email = "jane@example.com";
-    users.insert(user);
-
-    // for example
-    std::tie(user.name, user.email) = std::tuple<std::string, std::string>("Jade", "jade@example.com");
-    users.insert(user);
-
-
-    // select all
-    const std::list<User>& resList0 = users.select();
-    NGREST_ASSERT(resList0.size() == 4, "Test failed");
-
-    // select query
-    const std::list<User>& resList1 = users.select("id = ?", id);
-    NGREST_ASSERT(resList1.size() == 1, "Test failed");
-
-    // select query and 2 parameters
-    const std::list<User>& resList2 = users.select("id >= ? AND name LIKE ?", 0, "Ja%");
-    NGREST_ASSERT(resList2.size() == 3, "Test failed");
-
-----
-
-.. code:: c++
-
-    // select query and IN statement
- //    const std::list<User>& resList3 = users.select("id IN ?", std::list<int>{1, 2, 3});
-    // select query and IN statement
- //    const std::list<User>& resList4 = users.select("id IN ? AND name LIKE ?",
- //            std::list<int>{1, 2, 3}, "%Ja%");
-    // select all items, desired fields
-    const std::list<User>& resList5 = users.selectFields({"id", "name"}, "");
-    NGREST_ASSERT(resList5.size() == 4, "Test failed");
-
-    // select desired fields with query
-    const std::list<User>& resList6 = users.selectFields({"id", "name"}, "id = ?", id);
-    NGREST_ASSERT(resList6.size() == 1, "Test failed");
-
-
-    const User& resOne2 = users.selectOne("id = ?", id);
-    NGREST_ASSERT(resOne2.id == id, "Test failed");
-
-
-----
-
-.. code:: c++
-
- //    const std::tuple<int, std::string, std::string>& resRaw1 =
- //        users.selectOneTuple<std::tuple<int, std::string, std::string>>(
- //        {"id", "name", "email"});
-
-
-    // select just one field: all ids
-    const std::list<int>& resRawIds = users.selectTuple<int>({"id"});
-    NGREST_ASSERT(resRawIds.size() == 4, "Test failed");
-
-
-    typedef std::tuple<int, std::string, std::string> UserInfo;
-
- //    const std::list<std::tuple<int, std::string, std::string>>& resRaw1 =
- //            users.selectTuple<std::tuple<int, std::string, std::string>>(
- //            {"id", "name", "email"}, "id = ?", 2);
-
-    // equals to resRaw1
-    const std::list<UserInfo>& resRaw2 =
-            users.selectTuple<UserInfo>({"id", "name", "email"}, "id = ?", id + 1);
-    NGREST_ASSERT(resRaw2.size() == 1, "Test failed");
-
-----
-
-.. code:: c++
-
-    for (const UserInfo& info : resRaw2) {
-        int id;
-        std::string name;
-        std::string email;
-
-        std::tie(id, name, email) = info;
-
- //        std::cout << id << name << email << std::endl;
-    }
-
-
-    const UserInfo& resRaw3 = users.selectOneTuple<UserInfo>(
-                {"id", "name", "email"}, "id = ?", id + 1);
-
-    int resId;
-    std::string name;
-    std::string email;
-
-    std::tie(resId, name, email) = resRaw3;
-
-----
-
-.. code:: c++
-
- //    std::cout << resId << " " << name << " " << email << std::endl;
-
-
-    // stream
-
-    User user1 = {0, "Martin", "martin@example.com"};
-    User user2 = {0, "Marta", "marta@example.com"};
-
-    // insert
-    users << user1 << user2;
-
-    // select one item
-    users("id = ?", id) >> user;
-
-    // select multiple items
-    std::list<User> userList1;
-    users("id <= ?", id + 2) >> userList1;
-    NGREST_ASSERT(userList1.size() == 3, "Test failed");
-
-    // select all
-    std::list<User> userList2;
-    users() >> userList2;
-    NGREST_ASSERT(userList2.size() == 6, "Test failed");
-
-----
-
-.. code:: c++
-
-    std::cout
-    << resList0  << std::endl
-    << "--------------------------"  << std::endl
-    << resList1  << std::endl
-    << "--------------------------"  << std::endl
-    << resList2  << std::endl
-    << "--------------------------"  << std::endl
-    << resList5  << std::endl
-    << "--------------------------"  << std::endl
-    << resList6  << std::endl
-    << "--------------------------"  << std::endl
-    << resOne2   << std::endl
-    << "--------------------------"  << std::endl
-    << user << std::endl
-    << "--------------------------"  << std::endl
-    << userList1   << std::endl
-    << "--------------------------"  << std::endl
-    << userList2   << std::endl;
-
-    }}}
-
-----
-
-.. code:: c++
-
- int main() {
-    try {
- #ifdef HAS_SQLITE
-        ngrest::SQLiteDb sqliteDb("test.db");
-        ngrest::example::example1(sqliteDb);
- #endif
- #ifdef HAS_MYSQL
-        // must have db and user created using statements:
-        //   CREATE DATABASE test_ngrestdb CHARACTER SET utf8 COLLATE utf8_general_ci;
-        //   CREATE USER 'ngrestdb'@'localhost' IDENTIFIED BY 'ngrestdb';
-        //   GRANT ALL PRIVILEGES ON test_ngrestdb.* TO 'ngrestdb'@'localhost' WITH GRANT OPTION;
-
-        ngrest::MySqlDb mysqlDb({"test_ngrestdb", "ngrestdb", "ngrestdb"});
-        ngrest::example::example1(mysqlDb);
- #endif
- #ifdef HAS_POSTGRES
-        // must have db and user created using statements:
-        //   CREATE DATABASE test_ngrestdb;
-        //   CREATE USER ngrestdb WITH password 'ngrestdb';
-        //   GRANT ALL PRIVILEGES ON DATABASE test_ngrestdb TO ngrestdb;
-
-        ngrest::PostgresDb postgresDb({"test_ngrestdb", "ngrestdb", "ngrestdb"});
-        ngrest::example::example1(postgresDb);
- #endif
-    } NGREST_CATCH_ALL }
 
 ----
 
