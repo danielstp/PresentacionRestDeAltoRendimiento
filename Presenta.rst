@@ -11,7 +11,7 @@
    .. image:: Imágenes/scesi.svg
             :width: 8%
             :align: left
-   .. image:: Imágenes/logo_flisol_2023.png
+   .. image:: Imágenes/LogoFLISOL2023.svg
             :width: 10%
             :align: right
 
