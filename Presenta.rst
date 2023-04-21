@@ -8,12 +8,13 @@
 :css: css/presenta.css
 
 .. header::
-    .. image:: Imágenes/Flisol.svg
-            :width: 10%
-            :align: left
-    .. image:: Imágenes/scesi.svg
+   .. image:: Imágenes/scesi.svg
             :width: 8%
+            :align: left
+   .. image:: Imágenes/logo_flisol_2023.png
+            :width: 10%
             :align: right
+
 
 .. title: Mejorar el rendimiento de nuestro sitio web
 
@@ -639,23 +640,6 @@ Fin
 
 ----
 
-:data-y: 11600
-:data-x: 0
-:data-z: 11600
-
-Julian Assange
-##############
-
-.. image:: Imágenes/Julian_Assange_cropped_(Norway,_March_2010).jpg
-   :width: 50%
-
-Julian Paul Assange (Townsville, Queensland, 3 de julio de 1971), conocido como
-Julian Assange, es un programador, ciberactivista, periodista y activista de
-Internet australiano, conocido por ser el fundador, editor y portavoz del sitio
-web WikiLeaks.
-
-----
-
 :data-x: r+3600
 :data-z: r-2600
 :data-y: r+1750
@@ -673,26 +657,6 @@ su archivo web de las técnicas y trabajos sobre **ingeniería inversa**.
 
 ----
 
-Ian Murdock
-###########
-
-.. image:: Imágenes/IanMurdock.jpg
-   :width: 40%
-
-Ian Ashley Murdock (Konstanz, Alemania, 28 de abril de 1973-28 de diciembre de
-2015) fue un informático alemán y fue el fundador y primer líder del proyecto de
-software libre Debian.
-
-En 1993 escribió el Manifiesto Debian mientras estudiaba en la Purdue University,
-donde en 1996 obtuvo su licenciatura. La palabra Debian proviene de la
-combinación del nombre de su entonces novia Deborah y el suyo, por lo tanto,
-Deb(orah) e Ian.
-
-Fue fundador, también, de la empresa Progeny Linux Systems. Fue CTO de la Linux
-Foundation y líder del Proyecto Indiana cuando trabajaba para Sun Microsystems.
-
-----
-
 Edward Snowden
 ##############
 
@@ -707,57 +671,6 @@ En junio del 2013, Snowden hizo públicos, a través de los periódicos The
 Guardian y The Washington Post, documentos clasificados como alto secreto
 sobre varios programas de la NSA, incluyendo los programas de vigilancia
 masiva PRISM y XKeyscore
-
-
-----
-
-Chelsea Manning
-###############
-
-.. image:: Imágenes/Bradley_Manning_US_Army.jpg
-   :width: 30%
-
-
-Chelsea Elizabeth Manning (nacida Bradley Edward Manning, Crescent, Oklahoma, 17
-de diciembre de 1987) es una exsoldado y analista de inteligencia del ejército
-de los Estados Unidos. Manning cobró notoriedad internacional por supuestamente
-haber filtrado a WikiLeaks miles de documentos clasificados acerca de las
-guerras de Afganistán —conocidos como los Diarios de la Guerra de Afganistán— y
-de Irak, incluidos numerosos cables diplomáticos de diversas embajadas
-estadounidenses y el video del ejército conocido como Collateral Murder
-(«asesinato colateral»).
-
-
-----
-
-Ola Bini
-########
-
-.. image:: Imágenes/Ola_Bini_congreso.jpg
-   :width: 50%
-
-
-Ola Bini, (Gotemburgo, 1982) es un desarrollador de software, programador, y
-activista de Internet sueco, trabaja para el Centro de Autonomía Digital en
-problemas de privacidad, seguridad y criptografía. Radicado en Ecuador desde
-2013. En abril de 2019 fue detenido por estar presuntamente vinculado a Julian
-Assange y Wikileaks.
-
-----
-
-:data-x: r+1600
-:data-z: r+1600
-:data-rotate: 360
-
-
-George Hotz
-###########
-
-.. image:: Imágenes/George_Hotz.jpg
-   :width: 35%
-
-Francis George Hotz, (n. 2 de octubre de 1989), alias geohot, es un hacker estadounidense experto en seguridad de sistemas informáticos que cobró notoriedad por la gran precocidad que demostró con 17 años al crear blackra1n que, aprovechando otros desarrollos, lograba ser el primero en desbloquear el iPhone, permitiendo que el dispositivo sea utilizado con otros operadores de telecomunicaciones, a diferencia de la intención de Apple de proveer a sus clientes con sólo el uso de la red de AT&T.1
-
 
 ----
 
@@ -784,22 +697,6 @@ Fue diseñador jefe del proyecto inicial de Open Library.
 
 ----
 
-
-No hay justicia al cumplir leyes injustas. Es hora de salir a la luz y,
-siguiendo la tradición de la desobediencia civil, oponernos a este robo
-privado de la cultura pública.
-
-    *Aaron Swartz*
-
-----
-
-La información es poder. Pero como todo poder, hay quienes quieren
-mantenerlo para sí mismos.
-
-    *Aaron Swartz*
-
-----
-
 Alexandra Elbakyan
 ##################
 
@@ -813,6 +710,11 @@ científicos recientes.
 
 ----
 
+:data-x: r-950
+:data-y: r+950
+:data-z: r+1300
+
+
 Donald Knuth
 ############
 
@@ -821,9 +723,23 @@ Donald Knuth
 
 Donald Ervin Knuth (Milwaukee, Wisconsin; 10 de enero 1938) es un reconocido experto en ciencias de la computación estadounidense y matemático, famoso por su fructífera investigación dentro del análisis de algoritmos y compiladores.
 
-:data-x: r-950
-:data-y: r+950
-:data-z: r+1300
+----
+
+:data-y: 11600
+:data-x: 0
+:data-z: 11600
+
+Pablo Azero
+###########
+
+.. image:: Imágenes/pabloAzero.jpg
+    :width: 45%
+
+30 años en docencia universitaria de pregrado y posgrado en informática e ingeniería de software y 20 años en la industria del software.
+
+"Improving type-error messages in functional languages"
+Bastiaan Heeren, Johan Jeuring, Doaitse Swierstra,
+Pablo Azero Alcocer
 
 ----
 

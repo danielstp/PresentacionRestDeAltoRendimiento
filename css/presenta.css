@@ -764,7 +764,7 @@ h1, h2, h3, h4 {
 
 body {
     font-family: 'Montserrat';
-    background-image: url("../Imágenes/pexels-codioful-formerly-gradienta-6985128.jpg");
+    background-image: url("../Imágenes/f972980336.jpg");
     background-size: 100% 100%;
     font-size: 160%;
     text-align: center;
@@ -869,9 +869,9 @@ table td {
     padding: 8px 8px;
 }
 
-#step-17 > img,
-#step-18 > img,
-#step-19 > img {
+#wikipedia-servers-2008 > img,
+#wikipedia-servers-2010 > img,
+#wikipedia-servers-2012 > img {
     font: inherit;
     background-color: white;
 }
